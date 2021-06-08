@@ -1,0 +1,1897 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Perfect Survey\n"
+"POT-Creation-Date: 2019-10-17 18:29+0200\n"
+"PO-Revision-Date: 2019-12-05 18:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: lib/classes/PerfectSurvey.php:339
+msgid "Perfect Survey"
+msgstr "Perfect Survey"
+
+#: lib/classes/PerfectSurveyAssets.php:113
+#: lib/classes/PerfectSurveyPostType.php:53
+msgid "All survey"
+msgstr "Toate chestionarele"
+
+#: lib/classes/PerfectSurveyAssets.php:127
+msgid "Edit"
+msgstr "Editați"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:78
+msgid "Global settings"
+msgstr "Setări globale"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:88
+msgid "Progress bar"
+msgstr "Bara de progres"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:92
+msgid "Active progress bar"
+msgstr "Bara de progres activă"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:101
+msgid "Progressbar position"
+msgstr "Poziția barei de progres"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:108
+#: lib/classes/PerfectSurveyGlobalSetting.php:1231
+msgid "Below questions"
+msgstr "Mai jos întrebări"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:112
+#: lib/classes/PerfectSurveyGlobalSetting.php:1235
+msgid "Above questions"
+msgstr "Mai sus de întrebări"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:118
+msgid "Background first color"
+msgstr "Fundal prima culoare"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:126
+msgid "Background second color"
+msgstr "Culoarea a doua fundal"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:134
+msgid "Height"
+msgstr "Înălţime"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:141
+msgid "Value in (px)"
+msgstr "Valoare în (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:147
+#: lib/classes/PerfectSurveyGlobalSetting.php:211
+#: lib/classes/PerfectSurveyGlobalSetting.php:328
+#: lib/classes/PerfectSurveyGlobalSetting.php:728
+#: lib/classes/PerfectSurveyGlobalSetting.php:826
+#: lib/classes/PerfectSurveyGlobalSetting.php:882
+#: lib/classes/PerfectSurveyGlobalSetting.php:1122
+#: lib/classes/PerfectSurveyGlobalSetting.php:1354
+#: lib/classes/PerfectSurveyGlobalSetting.php:1388
+msgid "Border radius"
+msgstr "Raza de frontieră"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:154
+#: lib/classes/PerfectSurveyGlobalSetting.php:218
+#: lib/classes/PerfectSurveyGlobalSetting.php:335
+#: lib/classes/PerfectSurveyGlobalSetting.php:735
+#: lib/classes/PerfectSurveyGlobalSetting.php:833
+#: lib/classes/PerfectSurveyGlobalSetting.php:889
+#: lib/classes/PerfectSurveyGlobalSetting.php:1129
+#: lib/classes/PerfectSurveyGlobalSetting.php:1361
+#: lib/classes/PerfectSurveyGlobalSetting.php:1395
+msgid "Top left (px)"
+msgstr "În stânga sus (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:158
+#: lib/classes/PerfectSurveyGlobalSetting.php:222
+#: lib/classes/PerfectSurveyGlobalSetting.php:339
+#: lib/classes/PerfectSurveyGlobalSetting.php:739
+#: lib/classes/PerfectSurveyGlobalSetting.php:837
+#: lib/classes/PerfectSurveyGlobalSetting.php:893
+#: lib/classes/PerfectSurveyGlobalSetting.php:1133
+#: lib/classes/PerfectSurveyGlobalSetting.php:1365
+#: lib/classes/PerfectSurveyGlobalSetting.php:1399
+msgid "Top right (px)"
+msgstr "În dreapta sus (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:162
+#: lib/classes/PerfectSurveyGlobalSetting.php:226
+#: lib/classes/PerfectSurveyGlobalSetting.php:343
+#: lib/classes/PerfectSurveyGlobalSetting.php:743
+#: lib/classes/PerfectSurveyGlobalSetting.php:841
+#: lib/classes/PerfectSurveyGlobalSetting.php:897
+#: lib/classes/PerfectSurveyGlobalSetting.php:1137
+#: lib/classes/PerfectSurveyGlobalSetting.php:1369
+#: lib/classes/PerfectSurveyGlobalSetting.php:1403
+msgid "Bottom left (px)"
+msgstr "În stânga jos (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:166
+#: lib/classes/PerfectSurveyGlobalSetting.php:230
+#: lib/classes/PerfectSurveyGlobalSetting.php:347
+#: lib/classes/PerfectSurveyGlobalSetting.php:747
+#: lib/classes/PerfectSurveyGlobalSetting.php:845
+#: lib/classes/PerfectSurveyGlobalSetting.php:901
+#: lib/classes/PerfectSurveyGlobalSetting.php:1141
+#: lib/classes/PerfectSurveyGlobalSetting.php:1373
+#: lib/classes/PerfectSurveyGlobalSetting.php:1407
+msgid "Bottom right (px)"
+msgstr "Partea din dreapta jos (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:172
+#: lib/classes/PerfectSurveyGlobalSetting.php:261
+#: lib/classes/PerfectSurveyGlobalSetting.php:378
+#: lib/classes/PerfectSurveyGlobalSetting.php:932
+#: lib/classes/PerfectSurveyGlobalSetting.php:1438
+msgid "Margin"
+msgstr "Margine"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:179
+#: lib/classes/PerfectSurveyGlobalSetting.php:268
+#: lib/classes/PerfectSurveyGlobalSetting.php:385
+#: lib/classes/PerfectSurveyGlobalSetting.php:939
+#: lib/classes/PerfectSurveyGlobalSetting.php:1445
+msgid "Margin top (px)"
+msgstr "Topul marjei (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:183
+#: lib/classes/PerfectSurveyGlobalSetting.php:272
+#: lib/classes/PerfectSurveyGlobalSetting.php:389
+#: lib/classes/PerfectSurveyGlobalSetting.php:943
+#: lib/classes/PerfectSurveyGlobalSetting.php:1449
+msgid "Margin right (px)"
+msgstr "Marja dreapta (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:187
+#: lib/classes/PerfectSurveyGlobalSetting.php:280
+#: lib/classes/PerfectSurveyGlobalSetting.php:397
+#: lib/classes/PerfectSurveyGlobalSetting.php:951
+#: lib/classes/PerfectSurveyGlobalSetting.php:1457
+msgid "Margin bottom (px)"
+msgstr "Partea inferioară a marjei (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:191
+#: lib/classes/PerfectSurveyGlobalSetting.php:276
+#: lib/classes/PerfectSurveyGlobalSetting.php:393
+#: lib/classes/PerfectSurveyGlobalSetting.php:947
+#: lib/classes/PerfectSurveyGlobalSetting.php:1453
+msgid "Margin left (px)"
+msgstr "Marja stângă (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:199
+msgid "Layout"
+msgstr "Schemă"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:207
+msgid "General container"
+msgstr "Recipient general"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:236
+#: lib/classes/PerfectSurveyGlobalSetting.php:353
+#: lib/classes/PerfectSurveyGlobalSetting.php:753
+#: lib/classes/PerfectSurveyGlobalSetting.php:851
+#: lib/classes/PerfectSurveyGlobalSetting.php:907
+#: lib/classes/PerfectSurveyGlobalSetting.php:1084
+#: lib/classes/PerfectSurveyGlobalSetting.php:1147
+#: lib/classes/PerfectSurveyGlobalSetting.php:1413
+msgid "Padding"
+msgstr "Umplutură"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:243
+#: lib/classes/PerfectSurveyGlobalSetting.php:360
+#: lib/classes/PerfectSurveyGlobalSetting.php:760
+#: lib/classes/PerfectSurveyGlobalSetting.php:858
+#: lib/classes/PerfectSurveyGlobalSetting.php:914
+#: lib/classes/PerfectSurveyGlobalSetting.php:1154
+#: lib/classes/PerfectSurveyGlobalSetting.php:1420
+msgid "Padding top (px)"
+msgstr "Blat de umplere (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:247
+#: lib/classes/PerfectSurveyGlobalSetting.php:364
+#: lib/classes/PerfectSurveyGlobalSetting.php:764
+#: lib/classes/PerfectSurveyGlobalSetting.php:862
+#: lib/classes/PerfectSurveyGlobalSetting.php:918
+#: lib/classes/PerfectSurveyGlobalSetting.php:1158
+#: lib/classes/PerfectSurveyGlobalSetting.php:1424
+msgid "Padding right (px)"
+msgstr "Căptușire dreapta (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:251
+#: lib/classes/PerfectSurveyGlobalSetting.php:368
+#: lib/classes/PerfectSurveyGlobalSetting.php:768
+#: lib/classes/PerfectSurveyGlobalSetting.php:866
+#: lib/classes/PerfectSurveyGlobalSetting.php:922
+#: lib/classes/PerfectSurveyGlobalSetting.php:1162
+#: lib/classes/PerfectSurveyGlobalSetting.php:1428
+msgid "Padding left (px)"
+msgstr "Căptușire la stânga (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:255
+#: lib/classes/PerfectSurveyGlobalSetting.php:372
+#: lib/classes/PerfectSurveyGlobalSetting.php:772
+#: lib/classes/PerfectSurveyGlobalSetting.php:870
+#: lib/classes/PerfectSurveyGlobalSetting.php:926
+#: lib/classes/PerfectSurveyGlobalSetting.php:1166
+#: lib/classes/PerfectSurveyGlobalSetting.php:1432
+msgid "Padding bottom (px)"
+msgstr "Garnitura de jos (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:286
+#: lib/classes/PerfectSurveyGlobalSetting.php:403
+#: lib/classes/PerfectSurveyGlobalSetting.php:702
+#: lib/classes/PerfectSurveyGlobalSetting.php:800
+#: lib/classes/PerfectSurveyGlobalSetting.php:957
+#: lib/classes/PerfectSurveyGlobalSetting.php:1011
+#: lib/classes/PerfectSurveyGlobalSetting.php:1172
+#: lib/classes/PerfectSurveyGlobalSetting.php:1274
+#: lib/classes/PerfectSurveyGlobalSetting.php:1297
+#: lib/classes/PerfectSurveyGlobalSetting.php:1320
+#: lib/classes/PerfectSurveyGlobalSetting.php:1463
+msgid "Border color"
+msgstr "Culoarea graniței"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:294
+#: lib/classes/PerfectSurveyGlobalSetting.php:411
+#: lib/classes/PerfectSurveyGlobalSetting.php:965
+#: lib/classes/PerfectSurveyGlobalSetting.php:1019
+#: lib/classes/PerfectSurveyGlobalSetting.php:1180
+#: lib/classes/PerfectSurveyGlobalSetting.php:1282
+#: lib/classes/PerfectSurveyGlobalSetting.php:1305
+#: lib/classes/PerfectSurveyGlobalSetting.php:1328
+#: lib/classes/PerfectSurveyGlobalSetting.php:1471
+msgid "Background color"
+msgstr "Culoare fundal"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:302
+#: lib/classes/PerfectSurveyGlobalSetting.php:419
+#: lib/classes/PerfectSurveyGlobalSetting.php:710
+#: lib/classes/PerfectSurveyGlobalSetting.php:808
+#: lib/classes/PerfectSurveyGlobalSetting.php:973
+#: lib/classes/PerfectSurveyGlobalSetting.php:1066
+#: lib/classes/PerfectSurveyGlobalSetting.php:1188
+#: lib/classes/PerfectSurveyGlobalSetting.php:1336
+#: lib/classes/PerfectSurveyGlobalSetting.php:1479
+msgid "Border manager"
+msgstr "Administrator de frontieră"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:309
+#: lib/classes/PerfectSurveyGlobalSetting.php:426
+#: lib/classes/PerfectSurveyGlobalSetting.php:717
+#: lib/classes/PerfectSurveyGlobalSetting.php:815
+#: lib/classes/PerfectSurveyGlobalSetting.php:980
+#: lib/classes/PerfectSurveyGlobalSetting.php:1073
+#: lib/classes/PerfectSurveyGlobalSetting.php:1195
+#: lib/classes/PerfectSurveyGlobalSetting.php:1343
+#: lib/classes/PerfectSurveyGlobalSetting.php:1486
+msgid "Border Width (px)"
+msgstr "Lățimea marginilor (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:313
+#: lib/classes/PerfectSurveyGlobalSetting.php:430
+#: lib/classes/PerfectSurveyGlobalSetting.php:721
+#: lib/classes/PerfectSurveyGlobalSetting.php:819
+#: lib/classes/PerfectSurveyGlobalSetting.php:984
+#: lib/classes/PerfectSurveyGlobalSetting.php:1077
+#: lib/classes/PerfectSurveyGlobalSetting.php:1199
+#: lib/classes/PerfectSurveyGlobalSetting.php:1347
+#: lib/classes/PerfectSurveyGlobalSetting.php:1490
+msgid "Border style"
+msgstr "Stil bordură"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:324
+msgid "Boxed layout"
+msgstr "Dispunere în cutie"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:439
+msgid "Fonts"
+msgstr "Fonturi"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:447
+msgid "Font family"
+msgstr "Familie de fonturi"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:451
+#: lib/classes/PerfectSurveyGlobalSetting.php:498
+#: lib/classes/PerfectSurveyGlobalSetting.php:634
+msgid "Questions"
+msgstr "Întrebări"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:459
+#: lib/classes/PerfectSurveyGlobalSetting.php:524
+#: lib/classes/PerfectSurveyGlobalSetting.php:642
+msgid "Descriptions"
+msgstr "Descrieri"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:467
+#: lib/classes/PerfectSurveyGlobalSetting.php:550
+#: lib/classes/PerfectSurveyGlobalSetting.php:650
+msgid "Labels"
+msgstr "Etichete"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:475
+#: lib/classes/PerfectSurveyGlobalSetting.php:576
+#: lib/classes/PerfectSurveyGlobalSetting.php:658
+#: lib/classes/PerfectSurveyGlobalSetting.php:878
+msgid "Buttons"
+msgstr "Butoane"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:483
+#: lib/classes/PerfectSurveyGlobalSetting.php:602
+#: lib/classes/PerfectSurveyGlobalSetting.php:1213
+msgid "Pagination"
+msgstr "Paginare"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:494
+msgid "Font size"
+msgstr "Mărime Font"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:505
+#: lib/classes/PerfectSurveyGlobalSetting.php:531
+#: lib/classes/PerfectSurveyGlobalSetting.php:557
+#: lib/classes/PerfectSurveyGlobalSetting.php:583
+#: lib/classes/PerfectSurveyGlobalSetting.php:609
+msgid "Font size (px)"
+msgstr "Mărime Font (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:509
+#: lib/classes/PerfectSurveyGlobalSetting.php:535
+#: lib/classes/PerfectSurveyGlobalSetting.php:561
+#: lib/classes/PerfectSurveyGlobalSetting.php:587
+#: lib/classes/PerfectSurveyGlobalSetting.php:613
+msgid "Line height (px)"
+msgstr "Înălțimea liniei (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:513
+#: lib/classes/PerfectSurveyGlobalSetting.php:539
+#: lib/classes/PerfectSurveyGlobalSetting.php:565
+#: lib/classes/PerfectSurveyGlobalSetting.php:591
+#: lib/classes/PerfectSurveyGlobalSetting.php:617
+msgid "Font weight"
+msgstr "Greutate fontului"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:518
+#: lib/classes/PerfectSurveyGlobalSetting.php:544
+#: lib/classes/PerfectSurveyGlobalSetting.php:570
+#: lib/classes/PerfectSurveyGlobalSetting.php:596
+#: lib/classes/PerfectSurveyGlobalSetting.php:622
+msgid "Letter spacing (px)"
+msgstr "Spațiul dintre litere (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:630
+msgid "Fonts color"
+msgstr "Culoarea fonturilor"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:666
+msgid "Pagination text"
+msgstr "Textul de paginare"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:676
+msgid "Forms"
+msgstr "Formulare"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:682
+msgid "Input, select e textarea"
+msgstr "Introducere, selectați textarea"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:686
+#: lib/classes/PerfectSurveyGlobalSetting.php:784
+msgid "Text color"
+msgstr "Culoare text"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:694
+#: lib/classes/PerfectSurveyGlobalSetting.php:792
+msgid "Background"
+msgstr "Fundal"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:780
+msgid "Focus"
+msgstr "Focus"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:993
+#: lib/classes/PerfectSurveyGlobalSetting.php:1000
+msgid "Extra fields"
+msgstr "Campurii Extra"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1007
+msgid "Checkbox and radiobuttons"
+msgstr "Caseta de selectare și butoanele radio"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1027
+msgid "Selected background color"
+msgstr "Culoarea de fundal selectată"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1038
+msgid "Matrix fields"
+msgstr "Câmpurile matriceale"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1042
+msgid "Table background color"
+msgstr "Culoarea fundalului tabelului"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1050
+msgid "Alternate row background"
+msgstr "Fundal de rând alternativ"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1058
+msgid "Table border color"
+msgstr "Culoarea chenarului de masă"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1091
+msgid "Padding top bottom (px)"
+msgstr "Căptușirea fundului de sus (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1095
+msgid "Padding left right (px)"
+msgstr "Căptușire la stânga dreapta (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1106
+msgid "Image choice fields"
+msgstr "Câmpuri de alegere a imaginii"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1110
+msgid "Active image zoom on click"
+msgstr "Zoom de imagine activ pe clic"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1220
+msgid "Pagination position"
+msgstr "Poziția barei de progres"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1224
+msgid "Chose the pagination layout"
+msgstr "Alegeți aspectul paginării"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1246
+#: lib/classes/PerfectSurveyPostTypeMeta.php:78
+msgid "Pagination with dots"
+msgstr "Paginare cu buline"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1250
+msgid "Dots"
+msgstr "Puncte"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1257
+msgid "Width (px)"
+msgstr "Lățime (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1261
+msgid "Height (px)"
+msgstr "Înălțime (px):"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1270
+msgid "Color of dots"
+msgstr "Culoarea punctelor"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1293
+msgid "Color of current dots"
+msgstr "Culoarea punctelor curente"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1316
+msgid "Color of completed dots"
+msgstr "Culoarea punctelor completate"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1384
+#: lib/classes/PerfectSurveyPostTypeMeta.php:79
+msgid "Pagination with number (1 of 10)"
+msgstr "Paginare cu numere (de la 1 la 10)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1497
+msgid "Text align"
+msgstr "Aliniere text"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1507
+#: lib/classes/PerfectSurveyGlobalSetting.php:1514
+msgid "Custom css"
+msgstr "CSS personalizat"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1521
+msgid "If you want you can paste your custom css here"
+msgstr "Dacă doriți, puteți să lipiți css-ul personalizat aici"
+
+#: lib/classes/PerfectSurveyPostType.php:54
+#: resources/backend/singlestats.php:44 resources/backend/singlestats.php:52
+msgid "Survey"
+msgstr "Chestionar"
+
+#: lib/classes/PerfectSurveyPostType.php:55
+msgid "Add New"
+msgstr "Adaugă nou"
+
+#: lib/classes/PerfectSurveyPostType.php:56
+msgid "Add New Survey"
+msgstr "Adaugă chestionar nou"
+
+#: lib/classes/PerfectSurveyPostType.php:57
+msgid "Edit Survey"
+msgstr "Editează chestionar"
+
+#: lib/classes/PerfectSurveyPostType.php:58
+msgid "New Survey"
+msgstr "Chestionar nou"
+
+#: lib/classes/PerfectSurveyPostType.php:59
+msgid "View Survey"
+msgstr "Vizualizează Chestionar"
+
+#: lib/classes/PerfectSurveyPostType.php:60
+msgid "Search Survey"
+msgstr "Caută Chestionar"
+
+#: lib/classes/PerfectSurveyPostType.php:61
+msgid "No Survey found"
+msgstr "Nu a fost găsit niciun chestionar"
+
+#: lib/classes/PerfectSurveyPostType.php:62
+msgid "No Survey found in Trash"
+msgstr "Niciun chestionar găsit în coș"
+
+#: lib/classes/PerfectSurveyPostType.php:105
+msgid "Copy this survey"
+msgstr "Copiați acest sondaj"
+
+#: lib/classes/PerfectSurveyPostType.php:107
+msgid "Are you sure to copy entire survey?"
+msgstr "Ești sigur că vei copia întregul sondaj?"
+
+#: lib/classes/PerfectSurveyPostType.php:107
+#: resources/backend/questions_box/header_box.php:10
+msgid "Copy"
+msgstr "Copie"
+
+#: lib/classes/PerfectSurveyPostType.php:163
+#: lib/classes/PerfectSurveyPostType.php:164
+#: lib/classes/PerfectSurveyPostType.php:166
+msgid "Survey updated."
+msgstr "Chestionar actualizat."
+
+#: lib/classes/PerfectSurveyPostType.php:165
+msgid "Survey deleted."
+msgstr "Chestionar șters."
+
+#. translators: %s: date and time of the revision
+#: lib/classes/PerfectSurveyPostType.php:168
+#, php-format
+msgid "Survey restored to revision from %s"
+msgstr "Chestionar restaurat la revizia %s"
+
+#: lib/classes/PerfectSurveyPostType.php:169
+msgid "Survey published."
+msgstr "Chestionar publicat."
+
+#: lib/classes/PerfectSurveyPostType.php:170
+msgid "Survey saved."
+msgstr "Chestionar salvat."
+
+#: lib/classes/PerfectSurveyPostType.php:171
+msgid "Survey submitted."
+msgstr "Chestionar trimis."
+
+#: lib/classes/PerfectSurveyPostType.php:172
+msgid "Survey scheduled for."
+msgstr "Chestionar programat pentru."
+
+#: lib/classes/PerfectSurveyPostType.php:173
+msgid "Survey draft updated."
+msgstr "Schița de chestionar actualizată."
+
+#: lib/classes/PerfectSurveyPostType.php:213
+#: lib/classes/PerfectSurveyPostType.php:226
+#: lib/classes/PerfectSurveyPostType.php:240
+msgid "Author"
+msgstr "Autor"
+
+#: lib/classes/PerfectSurveyPostType.php:224
+msgid "Title"
+msgstr "Denumire"
+
+#: lib/classes/PerfectSurveyPostType.php:225
+#: resources/backend/wp_ps_metaboxes/shortcode.php:12
+msgid "Shortcode"
+msgstr "Cod abreviat"
+
+#: lib/classes/PerfectSurveyPostType.php:227
+msgid "Date"
+msgstr "Data"
+
+#: lib/classes/PerfectSurveyPostType.php:254
+msgid "Insert new survey title"
+msgstr "Inserează denumirea noului chestionar"
+
+#: lib/classes/PerfectSurveyPostTypeAction.php:277
+msgid "Survey copied successfull"
+msgstr "Sondajul a copiat succesul"
+
+#: lib/classes/PerfectSurveyPostTypeAction.php:701
+msgid "No statistics data available for this survey!"
+msgstr "Nu există date statistice disponibile pentru acest sondaj!"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:24
+msgid "Activate the survey"
+msgstr "Activează chestionarul"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:25
+msgid ""
+"Activate the survey to start collecting data. If the poll is off, you will "
+"not see the frontend and the statistics will not be saved"
+msgstr ""
+"Activează chestionarul pentru a începe să aduni date. Dacă chestionarul nu e "
+"pornit, nu vei vedea interfața iar statisticile nu vor fi salvate"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:34
+msgid "Thank you message (only for disabled survey)"
+msgstr "Mesaj de mulțumire (doar pentru chestionarele dezactivate)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:35
+msgid ""
+"This field will show a courtesy message if the survey is not active, change "
+"the message to show to the public"
+msgstr ""
+"Acest câmp va arăta un mesaj de curtoazie dacă chestionarul nu e activ, "
+"schimbă mesajul dacă vrei să îl faci public"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:37
+msgid ""
+"We are sorry, the survey is currently suspended or being created, please try "
+"again later ;)"
+msgstr ""
+"Ne pare rău, acest chestionar e suspendat temporar sau în curs de "
+"finalizare, vă rugăm să încercați mai târziu ;)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:44
+msgid "Submit one question or all?"
+msgstr "Trimiteți o singură întrebare sau pe toate?"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:45
+msgid "Please select if survey must be submit complete or one question at once"
+msgstr ""
+"Vă rugăm selectați dacă chestionarul trebuie trimis după finalizarea "
+"completarii sau câte o întrebare pe rând"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:47
+#: lib/classes/PerfectSurveyPostTypeMeta.php:61
+#: lib/classes/PerfectSurveyPostTypeMeta.php:88
+msgid "Submit survey"
+msgstr "Trimiteți chestionarul"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:51
+msgid "Complete"
+msgstr "Finalizat"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:52
+msgid "One question at once"
+msgstr "Câte o întrebare pe rând"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:58
+msgid "How to submite the survey?"
+msgstr "Cum trimit un chestionar?"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:59
+msgid ""
+"You can choose how the form must be submit, if normal or asyncronouse mode, "
+"without reload all page"
+msgstr ""
+"Poți alege cum să fie trimis formularul, în modul normal sau asincron, fără "
+"reîncărcarea întregii pagini"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:65
+msgid "Normal"
+msgstr "Normal"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:66
+msgid "Asyncronous"
+msgstr "Asincron"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:72
+msgid "Pagination style"
+msgstr "Stiluri pentru paginație"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:73
+msgid ""
+"You can create two different type of pagination, with number or with dots"
+msgstr ""
+"Poți creea două tiputi diferite de paginații, folosind numere sau buline"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:77
+msgid "Without paginator"
+msgstr "Fără paginator"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:85
+msgid "Text button submit"
+msgstr "Text pentru butonul de trimitere"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:86
+msgid "Insert the text of the button for submitting a survey"
+msgstr "Inserați textul pentru butonul de trimitere chestionar"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:89
+msgid "Send survey"
+msgstr "Trimite chestionar"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:96
+msgid "Text button next"
+msgstr "Text pentru butonul “următor"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:97
+msgid ""
+"Insert the text of the button for submitting a single survey question (when "
+"survey is submit one question at once)"
+msgstr ""
+"Inserați textul butonului pentru a trimite o singură întrebare din "
+"chestionar (când se răspunde la întrebările chestionarului rând pe rând)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:99
+msgid "Submit single question"
+msgstr "Trimite o singură întrebare"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:100
+msgid "Go next question"
+msgstr "Mergi la întrebarea următoare"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:107
+msgid "Questions style"
+msgstr "Stiluri pentru intrabari"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:108
+msgid "You can choose if the questions have a border or not"
+msgstr "Poți alege dacă întrebările au bordură sau nu"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:112
+msgid "No external box"
+msgstr "Fără casetă externă"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:113
+msgid "With external box"
+msgstr "Cu casetă externă"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:120
+msgid "Thank you message (multiple question mode)"
+msgstr "Mesaj de mulțumire (în versiunea cu intrebări multiple)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:121
+msgid "Message to show after complete survey"
+msgstr "Mesajul va fi  arătat după finalizarea chestionarului"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:124
+msgid ""
+"Thank you for submitting the questionnaire, your data has been successfully "
+"saved."
+msgstr ""
+"Vă mulțumim că ați completat acest chestionar, datele dvs au fost salvate cu "
+"succes."
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:142
+msgid "Thank you message (single question mode)"
+msgstr "Mesaj de mulțumire (în versiunea întrebare unică)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:143
+msgid ""
+"Message to show after complete each question (only in question single mode)"
+msgstr "Mesajul va fi arătat după ce s-a răspuns la fiecare întrebare"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:146
+msgid ""
+"Thank you for submitting this question, your data has been successfully "
+"saved."
+msgstr ""
+"Vă  mulțumim pentru că ați răspuns la această întrebare, datele dvs au fost "
+"salvate cu succes."
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:163
+msgid "Thank you screen"
+msgstr "Ecran pentru mesajul de mulțumire"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:164
+msgid "Choose your thank you page, will be visible after sending a survey"
+msgstr ""
+"Alege tipul de pagină de mulțumire, ce va fi vizibilă după trimiterea unui "
+"chestionar"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:78
+#: lib/classes/PerfectSurveyPostTypeModel.php:261
+#: resources/backend/welcome.php:115 resources/backend/welcome.php:117
+msgid "Single choice"
+msgstr "O singură variantă"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:79
+#: lib/classes/PerfectSurveyPostTypeModel.php:92
+#: lib/classes/PerfectSurveyPostTypeModel.php:105
+#: lib/classes/PerfectSurveyPostTypeModel.php:129
+#: lib/classes/PerfectSurveyPostTypeModel.php:140
+#: lib/classes/PerfectSurveyPostTypeModel.php:196
+msgid "add answer"
+msgstr "adaugă răspuns"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:91
+#: lib/classes/PerfectSurveyPostTypeModel.php:260
+#: resources/backend/welcome.php:122 resources/backend/welcome.php:124
+msgid "Multiple choice"
+msgstr "Mai multe variante"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:104
+#: resources/backend/welcome.php:129 resources/backend/welcome.php:131
+msgid "Text answer"
+msgstr "Text răspuns"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:110
+msgid "Text area"
+msgstr "Zonă text"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:111
+msgid "Date field"
+msgstr "Câmpul pentru dată"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:112
+msgid "Number"
+msgstr "Număr"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:113
+msgid "E-mail"
+msgstr "Adresă E-mail"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:114
+msgid "Text"
+msgstr "Text"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:120
+#: resources/backend/welcome.php:136 resources/backend/welcome.php:138
+msgid "Custom text"
+msgstr "Text personalizat"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:128
+#: resources/backend/welcome.php:145 resources/backend/welcome.php:147
+msgid "Matrix"
+msgstr "Matrice"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:139
+#: resources/backend/welcome.php:152 resources/backend/welcome.php:154
+msgid "Rating"
+msgstr "Evaluare"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:160
+#: lib/classes/PerfectSurveyPostTypeModel.php:216
+msgid "Star"
+msgstr "Stea"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:161
+#: lib/classes/PerfectSurveyPostTypeModel.php:217
+msgid "Like"
+msgstr "Îmi place"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:162
+#: lib/classes/PerfectSurveyPostTypeModel.php:218
+msgid "Map"
+msgstr "Hartă"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:163
+#: lib/classes/PerfectSurveyPostTypeModel.php:219
+msgid "Location"
+msgstr "Localizare"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:164
+#: lib/classes/PerfectSurveyPostTypeModel.php:220
+msgid "Music"
+msgstr "Muzică"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:165
+#: lib/classes/PerfectSurveyPostTypeModel.php:221
+msgid "Clock"
+msgstr "Ceas"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:166
+#: lib/classes/PerfectSurveyPostTypeModel.php:222
+msgid "Trophy"
+msgstr "Trofeu"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:167
+#: lib/classes/PerfectSurveyPostTypeModel.php:223
+msgid "Glass"
+msgstr "Pahar"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:168
+#: lib/classes/PerfectSurveyPostTypeModel.php:224
+msgid "Martini"
+msgstr "Martini"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:169
+#: lib/classes/PerfectSurveyPostTypeModel.php:225
+msgid "Beer"
+msgstr "Bere"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:170
+#: lib/classes/PerfectSurveyPostTypeModel.php:226
+msgid "Leaf"
+msgstr "Frunză"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:171
+#: lib/classes/PerfectSurveyPostTypeModel.php:227
+msgid "Rocket"
+msgstr "Rachetă"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:172
+#: lib/classes/PerfectSurveyPostTypeModel.php:228
+msgid "Spoon e knife"
+msgstr "Lingură și cuțit"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:173
+#: lib/classes/PerfectSurveyPostTypeModel.php:229
+msgid "Fire"
+msgstr "Foc"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:174
+#: lib/classes/PerfectSurveyPostTypeModel.php:230
+msgid "Power"
+msgstr "Putere"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:175
+#: lib/classes/PerfectSurveyPostTypeModel.php:231
+msgid "Cloud"
+msgstr "Nor"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:176
+#: lib/classes/PerfectSurveyPostTypeModel.php:232
+msgid "Flag"
+msgstr "Steag"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:177
+#: lib/classes/PerfectSurveyPostTypeModel.php:233
+msgid "Buble"
+msgstr "Bulă"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:178
+#: lib/classes/PerfectSurveyPostTypeModel.php:234
+msgid "Checkmark"
+msgstr "Simbol de verificare"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:179
+#: lib/classes/PerfectSurveyPostTypeModel.php:235
+msgid "Smiley"
+msgstr "Emoticon"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:180
+#: lib/classes/PerfectSurveyPostTypeModel.php:236
+msgid "Happy"
+msgstr "Fericit"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:181
+#: lib/classes/PerfectSurveyPostTypeModel.php:237
+msgid "Crying"
+msgstr "Plânge"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:182
+#: lib/classes/PerfectSurveyPostTypeModel.php:238
+msgid "Frustated"
+msgstr "Frustrat"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:183
+#: lib/classes/PerfectSurveyPostTypeModel.php:239
+msgid "Sleepy"
+msgstr "Somnoros"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:184
+#: lib/classes/PerfectSurveyPostTypeModel.php:240
+msgid "Wondering"
+msgstr "Întrebător"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:185
+#: lib/classes/PerfectSurveyPostTypeModel.php:241
+msgid "Hipster"
+msgstr "Hipster"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:186
+#: lib/classes/PerfectSurveyPostTypeModel.php:242
+msgid "Neutral"
+msgstr "Neutru"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:187
+#: lib/classes/PerfectSurveyPostTypeModel.php:243
+msgid "Confused"
+msgstr "Confuz"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:188
+#: lib/classes/PerfectSurveyPostTypeModel.php:244
+msgid "Evil"
+msgstr "Răutăcios"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:189
+#: lib/classes/PerfectSurveyPostTypeModel.php:245
+msgid "Cool"
+msgstr "Cool"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:190
+#: lib/classes/PerfectSurveyPostTypeModel.php:246
+msgid "Grin"
+msgstr "Rânjet"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:195
+msgid "Rating scale"
+msgstr "Scară de evaluare"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:251
+msgid "Image choice"
+msgstr "Opțiuni imagine"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:252
+msgid "Add image"
+msgstr "Adaugă imagine"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:287
+msgid "Equal"
+msgstr "Egal"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:288
+msgid "Different"
+msgstr "Diferit"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:306
+msgid "In column"
+msgstr "În coloană"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:312
+msgid "In row"
+msgstr "În rând"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:318
+msgid "Select field"
+msgstr "Selectează câmpul"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:921
+#: lib/classes/PerfectSurveyPostTypeModel.php:953
+msgid "copy"
+msgstr "copie"
+
+#: lib/classes/PerfectSurveyResources.php:22
+msgid "Statistics"
+msgstr "Statistici"
+
+#: lib/classes/PerfectSurveyResources.php:23
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: lib/classes/PerfectSurveyResources.php:24
+msgid "Survey options"
+msgstr "Opțiuni de sondaj"
+
+#: lib/classes/PerfectSurveyResources.php:25 resources/backend/activation.php:7
+msgid "Activation"
+msgstr "Activare"
+
+#: resources/backend/activation.php:9
+msgid ""
+"Once you have entered the purchase code you will have access to free "
+"upgrades. Updates can contain new features and important security updates. "
+"For more information on where to find your shopping code, visit this page."
+msgstr ""
+"De îndată ce ați introdus codul de achiziție veți avea acces la actualizări "
+"gratuite. Actualizările pot conține opțiuni noi și actualizări importante de "
+"securitate. Pentru mai multe informații privitor la găsirea codului dvs de "
+"cumpărături, vizitați această pagină."
+
+#: resources/backend/activation.php:13
+msgid "Please enter a valid purchase key for use this plugin!"
+msgstr ""
+"Vă rugăm introduceți un cod de revendicare valid pentru a utiliza acest "
+"modul!"
+
+#: resources/backend/activation.php:21
+msgid "Status of the plugin"
+msgstr "Statusul modulului"
+
+#: resources/backend/activation.php:27
+msgid "Installed version"
+msgstr "Versiune instalată"
+
+#: resources/backend/activation.php:37
+msgid "Product key"
+msgstr "Codul produsului"
+
+#: resources/backend/activation.php:38
+msgid " purchase key"
+msgstr " codul de revendicare"
+
+#: resources/backend/activation.php:42
+msgid "Insert here the product key"
+msgstr "Inserați aici codul de revendicare"
+
+#: resources/backend/activation.php:50
+#: resources/backend/settings_box/settings_layout/header_settings.php:7
+msgid "Save"
+msgstr "Salvare"
+
+#: resources/backend/activation.php:55
+msgid "Important:"
+msgstr "Important:"
+
+#: resources/backend/activation.php:55
+msgid ""
+"For activation issues, do not hesitate to contact support at the following "
+"address. We will be happy to help you."
+msgstr ""
+"În cazul unor probleme de activare, nu ezitați să contactați serviciul de "
+"asistență la următoarea adresă. Ne-am bucura să vă fim de ajutor."
+
+#: resources/backend/activation.php:55
+msgid "I want support now!"
+msgstr "Doresc asistență acum!"
+
+#: resources/backend/activation.php:65
+msgid "Operation successfull"
+msgstr "Operațiunea a reușit"
+
+#: resources/backend/answers_box/delete_btn.php:3
+#: resources/backend/questions_box/header_box.php:11
+msgid "Delete element"
+msgstr "Șterge element"
+
+#: resources/backend/answers_box/delete_btn.php:4
+msgid " All relative stats will be removed"
+msgstr " Toate statisticile asociate vor fi eliminate"
+
+#: resources/backend/answers_input/image.php:19
+msgid "Load Image"
+msgstr "Se încărcă imaginea"
+
+#: resources/backend/answers_input/image.php:23
+msgid "Image text"
+msgstr "Textul imagini"
+
+#: resources/backend/answers_input/image.php:26
+msgid "Image description"
+msgstr "Descrierea imaginii"
+
+#: resources/backend/answers_input/input_custom.php:14
+#: resources/backend/answers_input/input_custom.php:17
+msgid "The user will see this type of field"
+msgstr "Utilizatorul poate vedea acest tip de câmp"
+
+#: resources/backend/answers_input/matrix_values.php:8
+msgid "Insert an answer value"
+msgstr "Inserați o valoare a răspunsului"
+
+#: resources/backend/answers_input/slider.php:20
+#: resources/backend/answers_input/text.php:8
+#: resources/backend/answers_input/textarea.php:8
+#: resources/frontend/answers_input/textarea.php:2
+msgid "Insert an answer"
+msgstr "Inserați un răspuns"
+
+#: resources/backend/importexport.php:32
+msgid "File must be a valid JSON export from "
+msgstr "Fișierul trebuie să fie un export JSON valid din "
+
+#: resources/backend/importexport.php:44
+msgid "Import "
+msgstr "Importați "
+
+#: resources/backend/importexport.php:51
+msgid "Import or export your survey"
+msgstr "Importați sau exportați sondajul"
+
+#: resources/backend/importexport.php:60
+msgid "Export your surveys"
+msgstr "Exportați-vă sondajele"
+
+#: resources/backend/importexport.php:66
+msgid ""
+"Select the surveys you want to export. Use the download button to export to "
+"a .json file that you can then import into another Perfect Survey "
+"installation."
+msgstr ""
+"Selectați sondajele pe care doriți să le exportați. Folosiți butonul de "
+"descărcare pentru a exporta într-un fișier .json pe care îl puteți importa "
+"apoi într-o altă instalație Perfect Survey."
+
+#: resources/backend/importexport.php:71
+msgid "Select your surveys"
+msgstr "Selectați-vă sondajele"
+
+#: resources/backend/importexport.php:78
+msgid "Export all survey"
+msgstr "Exportați tot sondajul"
+
+#: resources/backend/importexport.php:89 resources/backend/statistics.php:53
+msgid "(no title)"
+msgstr "(fără titlu)"
+
+#: resources/backend/importexport.php:99
+msgid "No survey found!"
+msgstr "Nu a fost găsit niciun chestionar!"
+
+#: resources/backend/importexport.php:111
+msgid "Download selected survey"
+msgstr "Descărcați sondajul selectat"
+
+#: resources/backend/importexport.php:129
+msgid "Import your surveys"
+msgstr "Importați-vă sondajele"
+
+#: resources/backend/importexport.php:135
+msgid ""
+"Select the Perfect Survey JSON file you want to import. When you click the "
+"import button below, Perfect Survey will import your survey"
+msgstr ""
+"Selectați fișierul JSON Perfect Survey pe care doriți să-l importați. Când "
+"faceți clic pe butonul de import de mai jos, Perfect Survey va importa "
+"sondajul dvs"
+
+#: resources/backend/importexport.php:140
+msgid "Select file"
+msgstr "Selectați fisiere"
+
+#: resources/backend/importexport.php:146
+msgid "Choose JSON file to import"
+msgstr "Alegeți fișierul JSON de importat"
+
+#: resources/backend/importexport.php:151
+msgid "Import"
+msgstr "Import"
+
+#: resources/backend/options.php:131
+msgid "Your settings are been saved!"
+msgstr "Setările dvs. au fost salvate!"
+
+#: resources/backend/questions_box/form_question.php:5
+msgid "Insert a question"
+msgstr "Inserați o întrebare"
+
+#: resources/backend/questions_box/form_question.php:33
+msgid "Insert a description"
+msgstr "Inserați o descriere"
+
+#: resources/backend/questions_box/form_settings_modal.php:3
+#: resources/backend/questions_box/form_settings_modal.php:8
+#: resources/backend/wp_ps_metaboxes/meta.php:1
+msgid "Settings"
+msgstr "Setări"
+
+#: resources/backend/questions_box/form_settings_modal.php:19
+msgid "Ok"
+msgstr "Ok"
+
+#: resources/backend/questions_box/header_box.php:10
+msgid "Are you sure to copy this question? All relative stats will be ignored"
+msgstr ""
+"Sunteți sigur că copiați această întrebare? Toate statisticile relative vor "
+"fi ignorate"
+
+#: resources/backend/questions_box/header_box.php:10
+msgid "Copy element"
+msgstr "Element de copiere"
+
+#: resources/backend/questions_box/header_box.php:11
+msgid ""
+"Are you sure to delete this question? All relative stats will be removed"
+msgstr ""
+"Sunteți sigur că vreți să ștergeți această întrebare? Toate statisticile "
+"asociate vor fi șterse"
+
+#: resources/backend/questions_box/header_box.php:11
+msgid "Delete"
+msgstr "Șterge"
+
+#: resources/backend/questions_box/optional_settings_box.php:4
+msgid "Values range"
+msgstr "Spectrul de valori"
+
+#: resources/backend/questions_box/optional_settings_box.php:6
+msgid "Number of"
+msgstr "Număr de"
+
+#: resources/backend/questions_box/optional_settings_box.php:6
+msgid "stars"
+msgstr "stele"
+
+#: resources/backend/questions_box/optional_settings_box.php:15
+#: resources/backend/questions_box/optional_settings_box.php:17
+msgid "Icon type"
+msgstr "Tip de icoană"
+
+#: resources/backend/questions_box/optional_settings_box.php:26
+msgid "Answer field type"
+msgstr "Tip de câmp pentru răspunsuri"
+
+#: resources/backend/questions_box/options_box.php:5
+msgid "Required"
+msgstr "Obligatoriu"
+
+#: resources/backend/questions_box/options_box.php:16
+msgid "Load image"
+msgstr "Încarcă imagine"
+
+#: resources/backend/questions_box/options_box.php:17
+msgid "Delete image"
+msgstr "Șterge imagine"
+
+#: resources/backend/questions_box/settings_box.php:3
+msgid "Show answers type"
+msgstr "Arată tipul de răspunsuri"
+
+#: resources/backend/questions_types/matrix.php:80
+msgid "Add answer value"
+msgstr "Adaugă o valoare a răspunsului"
+
+#: resources/backend/settings_box/settings_layout/header_settings.php:3
+#, php-format
+msgid "Version %s"
+msgstr "Versiune %s"
+
+#: resources/backend/settings_box/settings_layout/header_settings.php:6
+msgid "Reset default settings"
+msgstr "Resetați setările implicite"
+
+#: resources/backend/singlestats.php:26
+msgid "Statistics for"
+msgstr "Statistici despre"
+
+#: resources/backend/singlestats.php:31 resources/backend/singlestats.php:33
+#: resources/backend/singlestats.php:35 resources/backend/stats/datagrid.php:17
+#: resources/backend/stats/datagrid.php:31
+msgid "User"
+msgstr "Utilizator"
+
+#: resources/backend/singlestats.php:33 resources/backend/singlestats.php:35
+#: resources/backend/stats/datagrid.php:31
+msgid "not registered"
+msgstr "neînregistrat"
+
+#: resources/backend/singlestats.php:33
+msgid "session"
+msgstr "sesiune"
+
+#: resources/backend/singlestats.php:45 resources/backend/statistics.php:62
+msgid "In progress"
+msgstr "În curs de completare"
+
+#: resources/backend/singlestats.php:53 resources/backend/statistics.php:64
+msgid "Suspended"
+msgstr "Suspendat"
+
+#: resources/backend/singlestats.php:53
+msgid ""
+"When the survey is suspended, the system does not record the statistics. "
+"Enable the survey to start collecting data."
+msgstr ""
+"Când chestionarul e suspendat, sistemul nu înregistrează stratisticile sale. "
+"Permite chestionarului să colecteze date."
+
+#: resources/backend/singlestats.php:90
+msgid "View this survey"
+msgstr "Vizualizează acest chestionar"
+
+#: resources/backend/singlestats.php:98
+msgid "You can click on this link to go to the edit page of this survey"
+msgstr ""
+"Puteți da click pe acest link pentru a merge la pagina de editare a acestui "
+"chestionar"
+
+#: resources/backend/singlestats.php:101
+msgid "Go to survey"
+msgstr "Mergi la chestionar"
+
+#: resources/backend/singlestats.php:113
+msgid "Download area"
+msgstr "Zonă de descărcare"
+
+#: resources/backend/singlestats.php:120
+msgid "Create"
+msgstr "Creează"
+
+#: resources/backend/singlestats.php:128
+msgid "Download CSV"
+msgstr "Descărcă CSV"
+
+#: resources/backend/statistics.php:7
+msgid "Analyze Results"
+msgstr "Analizează rezultatele"
+
+#: resources/backend/statistics.php:12
+msgid "Total Response"
+msgstr "Total răspunsuri"
+
+#: resources/backend/statistics.php:19
+msgid "Total Surveys"
+msgstr "Total chestionare"
+
+#: resources/backend/statistics.php:26
+msgid "Total Questions"
+msgstr "Total întrebări"
+
+#: resources/backend/statistics.php:34
+msgid ""
+"In this area you will be able to view the statistics of the surveys in "
+"progress."
+msgstr ""
+"În această secțiune veți putea vizualiza statistici ale chestionarelor în "
+"curs."
+
+#: resources/backend/statistics.php:42 resources/backend/statistics.php:73
+msgid "Survey name"
+msgstr "Denumire chestionar"
+
+#: resources/backend/statistics.php:43 resources/backend/statistics.php:74
+msgid "Status"
+msgstr "Status"
+
+#: resources/backend/statistics.php:57
+msgid "View"
+msgstr "Vizualizează"
+
+#: resources/backend/statistics.php:90
+msgid "This page is empty because there are no active surveys"
+msgstr "Această pagină e goală deoarece nu există chestionare active"
+
+#: resources/backend/statistics.php:91
+msgid "Create a new survey"
+msgstr "Creează un chestionar nou"
+
+#: resources/backend/stats/datagrid.php:5
+msgid "Result of statistics for ip"
+msgstr "Rezultatul stratisticilor pentru IP"
+
+#: resources/backend/stats/datagrid.php:6
+msgid ""
+"In this section it is possible to analyze data for a single user. By "
+"clicking on the user name, if registered, you can go to view his profile. By "
+"clicking on its IP address you can analyze only its answers isolating them "
+"from the rest."
+msgstr ""
+"În acesata secțiune aveți posibilitatea să analizați date pentru un singur "
+"utilizator. Dând click pe numele utilizatorului puteți să-i vizualizați "
+"profilul. Dând click pe adresa IP, puteți să-i analizați răspunsurile doar "
+"izolându-le de restul itemilor."
+
+#: resources/backend/stats/datagrid.php:15
+msgid "Starting date"
+msgstr "Dată la care s-a început completarea"
+
+#: resources/backend/stats/datagrid.php:16
+msgid "User IP"
+msgstr "IP-ul utilizatorului"
+
+#: resources/backend/stats/datagrid.php:28
+msgid "IP not available"
+msgstr "IP nu sunt disponibile"
+
+#: resources/backend/stats/image.php:61
+#: resources/backend/stats/multiple_choice.php:60
+#: resources/backend/stats/single_choice.php:59
+msgid "Answer"
+msgstr "Răspuns"
+
+#: resources/backend/stats/image.php:62 resources/backend/stats/matrix.php:74
+#: resources/backend/stats/multiple_choice.php:61
+#: resources/backend/stats/single_choice.php:60
+#: resources/backend/stats/slider.php:74 resources/backend/stats/text.php:11
+msgid "Answers"
+msgstr "Răspunsuri"
+
+#: resources/backend/stats/rating.php:60
+msgid "Question"
+msgstr "Întrebare"
+
+#: resources/backend/welcome.php:4
+#, php-format
+msgid "Welcome %s %s"
+msgstr "Bun venit %s %s"
+
+#: resources/backend/welcome.php:5
+msgid "Perfect Survey WordPress plugin - All surveys you want."
+msgstr "Plugin WordPress Perfect Survey - Toate sondajele dorite."
+
+#: resources/backend/welcome.php:5
+msgid "For more informations or support click me."
+msgstr "Pentru mai multe informații sau asistență, faceți clic pe mine."
+
+#: resources/backend/welcome.php:11
+msgid ""
+"<strong>Customers</strong><br>are the heart of your business."
+"<br><strong>Listen to.</strong>"
+msgstr ""
+"<strong>Clienţii</strong><br>sunt inima afacerii tale.<br><strong>Asculta.</"
+"strong>"
+
+#: resources/backend/welcome.php:14
+msgid ""
+"Thanks to Perfectsurvey, you can learn more about what your customers think "
+"about your products or services."
+msgstr ""
+"Datorită Perfectsurvey, puteți afla mai multe despre ce cred clienții dvs. "
+"despre produsele sau serviciile dvs."
+
+#: resources/backend/welcome.php:17
+msgid ""
+"Within the editing form of the questionnaire, it will be possible to modify "
+"the graphics as colors, fonts, and dimensions. To allow you to have maximum "
+"graphic integration with your template."
+msgstr ""
+"În forma de editare a chestionarului, va fi posibilă modificarea graficii "
+"sub formă de culori, fonturi și dimensiuni. Pentru a vă permite să aveți o "
+"integrare grafică maximă cu șablonul dvs."
+
+#: resources/backend/welcome.php:20
+msgid "Perfectsurvey"
+msgstr "Perfectsurvey"
+
+#: resources/backend/welcome.php:26
+msgid "Easy and fast"
+msgstr "Ușor și rapid"
+
+#: resources/backend/welcome.php:28
+msgid ""
+"Thanks to the speed of the plugin, it will be possible to use it as soon as "
+"it is installed. The plugin does not provide any preliminary configuration, "
+"it is immediately ready to be used. Install, Create, Collect your customer’s "
+"data. It is a powerful tool and allows you to make the right decisions at "
+"any time. Perfect Survey, you can use it for: market surveys, understand the "
+"satisfaction of your customers for products, services, understand what you "
+"like and what is not the best way to improve your business."
+msgstr ""
+"Datorită vitezei pluginului, va putea fi utilizat imediat ce este instalat. "
+"Pluginul nu oferă nicio configurație preliminară, este imediat gata de "
+"utilizare. Instalează, creează, colectează datele clientului tău. Este un "
+"instrument puternic și vă permite să luați decizii corecte în orice moment. "
+"Perfect Survey, îl puteți folosi pentru: studii de piață, să înțelegeți "
+"satisfacția clienților dvs. pentru produse, servicii, să înțelegeți ce vă "
+"place și care nu este cea mai bună modalitate de a vă îmbunătăți afacerea."
+
+#: resources/backend/welcome.php:49
+msgid "Surveys? Ever been so simple."
+msgstr "Sondaje? Ai fost vreodată atât de simplu."
+
+#: resources/backend/welcome.php:51
+msgid ""
+"With Perfect Survey plugin for WordPress you can create unlimited surveys on "
+"your website and you can know what people have about you thanks to the built-"
+"in advanced statistics."
+msgstr ""
+"Cu pluginul Perfect Survey pentru WordPress, puteți crea sondaje nelimitate "
+"pe site-ul dvs. web și puteți ști ce au oamenii despre dvs. datorită "
+"statisticilor avansate încorporate."
+
+#: resources/backend/welcome.php:57 resources/backend/welcome.php:59
+msgid "Create your group of questions."
+msgstr "Creați-vă grupul de întrebări."
+
+#: resources/backend/welcome.php:61
+msgid ""
+"Thanks to the advanced questions editor with more than 15 different types of "
+"answers, creating your own survey is a simple, fast and easy. Give it a "
+"personalized style to make it more appealing."
+msgstr ""
+"Datorită editorului avansat de întrebări cu mai mult de 15 tipuri diferite "
+"de răspunsuri, crearea propriului sondaj este simplă, rapidă și ușoară. Dă-i "
+"un stil personalizat pentru a-l face mai atrăgător."
+
+#: resources/backend/welcome.php:66 resources/backend/welcome.php:68
+msgid "Post your new survey."
+msgstr "Postează noul sondaj."
+
+#: resources/backend/welcome.php:70
+msgid ""
+"To publish your survey and start just copy and paste the shortcode on your "
+"page, article or widget to start collecting data. You will be happy with "
+"simplicity"
+msgstr ""
+"Pentru a vă publica sondajul și a începe doar să copiați și să lipiți codul "
+"scurt pe pagina, articolul sau widgetul dvs. pentru a începe colectarea "
+"datelor. Vei fi fericit cu simplitate"
+
+#: resources/backend/welcome.php:75 resources/backend/welcome.php:77
+msgid "Collect and analyze statistics"
+msgstr "Colectați și analizați statistici"
+
+#: resources/backend/welcome.php:79
+msgid ""
+"The integrated statistics system will allow you to do an in-depth analysis "
+"of the answers given by your customers or visitors. Thanks to the tables and "
+"charts, it will be easy to understand."
+msgstr ""
+"Sistemul de statistici integrat vă va permite să faceți o analiză "
+"aprofundată a răspunsurilor date de clienții dvs. sau de vizitatori. "
+"Datorită tabelelor și graficelor, va fi ușor de înțeles."
+
+#: resources/backend/welcome.php:85
+msgid "Customer Satisfaction? Discover everything with Perfect Survey."
+msgstr "Satisfacția clienților? Descoperă totul cu Perfect Survey."
+
+#: resources/backend/welcome.php:87
+msgid "Get to know your customers better to make the right decisions."
+msgstr "Cunoaște-ți mai bine clienții pentru a lua deciziile corecte."
+
+#: resources/backend/welcome.php:92
+msgid "Customer Satisfaction?"
+msgstr "Satisfacția clienților?"
+
+#: resources/backend/welcome.php:93
+msgid ""
+"Get real-time feedback to improve products, services, and business overall."
+msgstr ""
+"Obțineți feedback în timp real pentru a îmbunătăți produsele, serviciile și "
+"afacerile în general."
+
+#: resources/backend/welcome.php:96
+msgid "Learning? The right tool."
+msgstr "Învăţare? Instrumentul potrivit."
+
+#: resources/backend/welcome.php:97
+msgid ""
+"With Perfectsurvey, you can create exercises or tests for education. With "
+"detailed statistics."
+msgstr ""
+"Cu Perfectsurvey, puteți crea exerciții sau teste pentru educație. Cu "
+"statistici detaliate."
+
+#: resources/backend/welcome.php:100
+msgid "Market Research"
+msgstr "Cercetare de piaţă"
+
+#: resources/backend/welcome.php:101
+msgid ""
+"Keep track of industry and market trends to stay ahead of the competition."
+msgstr ""
+"Urmăriți tendințele industriei și ale pieței pentru a fi în fața concurenței."
+
+#: resources/backend/welcome.php:104
+msgid "Employee Engagement"
+msgstr "Implicarea angajaților"
+
+#: resources/backend/welcome.php:105
+msgid ""
+"Understand how to retain the best talent and build employee satisfaction."
+msgstr ""
+"Înțelegeți cum să păstrați cel mai bun talent și să creați satisfacția "
+"angajaților."
+
+#: resources/backend/welcome.php:110
+msgid "Type of custom question fields"
+msgstr "Tipul câmpurilor de întrebări personalizate"
+
+#: resources/backend/welcome.php:118
+msgid "Useful for creating a series of answers that allow only one selection"
+msgstr ""
+"Util pentru crearea unei serii de răspunsuri care permit o singură selecție"
+
+#: resources/backend/welcome.php:125
+msgid "Similar to Single choice but accept multiple selections"
+msgstr "Similar cu alegerea unică, dar acceptă selecții multiple"
+
+#: resources/backend/welcome.php:132
+msgid ""
+"Text answer is a Jolly field, it allows you to create fields like text area. "
+"date field, number, email, text"
+msgstr ""
+"Răspunsul text este un câmp Jolly, vă permite să creați câmpuri precum zona "
+"de text. câmp data, număr, e-mail, text"
+
+#: resources/backend/welcome.php:139
+msgid ""
+"If you need to insert explanations between the questions, Custom text helps "
+"you with wysiwyg editor"
+msgstr ""
+"Dacă trebuie să inserați explicații între întrebări, textul personalizat vă "
+"ajută cu editorul wysiwyg"
+
+#: resources/backend/welcome.php:148
+msgid "A field that crosses two different inputs, used for evaluations"
+msgstr ""
+"Un câmp care traversează două intrări diferite, utilizat pentru evaluări"
+
+#: resources/backend/welcome.php:155
+msgid ""
+"If you need a rating scale this is the right field, choose from a myriad of "
+"icons"
+msgstr ""
+"Dacă aveți nevoie de o scară de evaluare, acesta este câmpul potrivit, "
+"alegeți dintr-o multitudine de pictograme"
+
+#: resources/backend/welcome.php:159 resources/backend/welcome.php:161
+msgid "Multiple rating"
+msgstr "Evaluare multiplă"
+
+#: resources/backend/welcome.php:162
+msgid ""
+"It is the same as Rating but allows you to create a multiple Rating field "
+"with custom icons"
+msgstr ""
+"Este la fel ca Rating, dar vă permite să creați un câmp de Rating multiple "
+"cu pictograme personalizate"
+
+#: resources/backend/welcome.php:166 resources/backend/welcome.php:168
+msgid "Images choice"
+msgstr "Alegerea imaginilor"
+
+#: resources/backend/welcome.php:169
+msgid ""
+"Used to create an image selection field, you can choose between multiple or "
+"single selection"
+msgstr ""
+"Folosit pentru a crea un câmp de selecție a imaginilor, puteți alege între o "
+"selecție multiplă sau unică"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:18
+msgid "-- Choose question --"
+msgstr "-- Alege întrebarea --"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:26
+msgid "--Choose condition--"
+msgstr "-- Stare aleasă --"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:34
+msgid "-- Choose answer --"
+msgstr "-- Alege întrebarea --"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:41
+msgid "Delete condition"
+msgstr "Ștergeți starea"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:41
+msgid "Are you sure to delete this logic condition?"
+msgstr "Sigur ștergeți această condiție logică?"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:48
+msgid "Go to"
+msgstr "Mergi la"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:52
+msgid "-- Choose --"
+msgstr "-- Alege --"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:56
+msgid "End questionary"
+msgstr "Încheiați chestionarul"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:1
+msgid "Logic conditions"
+msgstr "Condiții logice"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:8
+msgid "Create now your logic conditions"
+msgstr "Creați acum condițiile dvs. logice"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:11
+msgid ""
+"All conditions will be active only when survey is one question for page. "
+"Only answer of type multiple answers can be used here"
+msgstr ""
+"Toate condițiile vor fi active numai atunci când sondajul este o întrebare "
+"pentru pagină. Aici poate fi utilizat doar răspunsul de tip răspunsuri "
+"multiple"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:37
+msgid "Add logic conditions"
+msgstr "Adăugați condiții logice"
+
+#: resources/backend/wp_ps_metaboxes/meta.php:61
+msgid "Restore default value"
+msgstr "Restaurează valoarea implicită"
+
+#: resources/backend/wp_ps_metaboxes/questions.php:2
+msgid "Create your survey"
+msgstr "Creează-ți chestionarul"
+
+#: resources/backend/wp_ps_metaboxes/questions.php:11
+#: resources/frontend/questions_types/no-questions.php:2
+msgid "This page is empty.<br>Add a question now!"
+msgstr "Acesta pagină este goală.<br>Adaugă o întrebare acum!"
+
+#: resources/backend/wp_ps_metaboxes/questions.php:37
+#: resources/frontend/questions_types/no-questions.php:6
+msgid "Add a question now"
+msgstr "Adaugă o întrebare acum"
+
+#: resources/backend/wp_ps_metaboxes/shortcode.php:3
+msgid "Copy a shortcode"
+msgstr "Copiază codul abreviat"
+
+#: resources/backend/wp_ps_metaboxes/shortcode.php:13
+msgid "Copy this shortcode and enter it in your page, article or widget"
+msgstr ""
+"Copiază acest cod abreviat și înserează-l pe pagina, articolul sau widget-ul "
+"tău"
+
+#: resources/frontend/answers_input/textarea.php:2
+msgid "Type your answer here..."
+msgstr "Scrie răspunsul tău aici…"
+
+#: resources/frontend/layout/pagination.php:18
+#, php-format
+msgid "Step %s of %s"
+msgstr "Etapa %s de %s"
+
+#: resources/frontend/questions_types/generic.php:7
+msgid "no answer"
+msgstr "fără răspuns"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.perfectsurvey.com/"
+msgstr "http://www.perfectsurvey.com/"
+
+#. Description of the plugin/theme
+msgid "Insert in your WordPress a perfect survey plugin"
+msgstr "Inserează pe situl tău WordPress acest modul de chestionare perfect"
+
+#. Author of the plugin/theme
+msgid "Vincenzo Migliano"
+msgstr "Vincenzo Migliano"
+
+#~ msgid "Get style to the questions and make cool"
+#~ msgstr "Stlizează întrebările și fă-le cool"
+
+#~ msgid "Questions font size (pixel)"
+#~ msgstr "Dimensiunea fontului întrebărilor (în pixeli)"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid "Questions line height (pixel)"
+#~ msgstr "Înălțimea distanței între rânduri pentru întrebări (în pixeli)"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "Questions text color"
+#~ msgstr "Culoarea textului întrebărilor"
+
+#~ msgid "Get style to the answers and make cool"
+#~ msgstr "Stilizează răspunsurile și fă-le cool"
+
+#~ msgid "Answers font size (pixel)"
+#~ msgstr "Dimensiunea fontului răspunsurilor (în pixeli)"
+
+#~ msgid "13"
+#~ msgstr "13"
+
+#~ msgid "Answers line height (pixel)"
+#~ msgstr "Înălțimea distanței între rânduri pentru răspunsuri (în pixeli)"
+
+#~ msgid "18"
+#~ msgstr "18"
+
+#~ msgid "Answers text color"
+#~ msgstr "Culoarea textului răspunsurilor"
+
+#~ msgid "Get style to the labels and make cool"
+#~ msgstr "Stlizează etichetele și fă-le cool"
+
+#~ msgid "UI Color"
+#~ msgstr "Culoare Interfață Utilizator"
+
+#~ msgid "Get custom colors for checkbox, radiobutton or select"
+#~ msgstr ""
+#~ "Personalizează culorile pentru controalele de tip checkbox, radiobutton "
+#~ "sau select"
+
+#~ msgid "About"
+#~ msgstr "Despre"
+
+#~ msgid "What can you do?"
+#~ msgstr "Ce poți face?"
+
+#~ msgid "Add or update surveys"
+#~ msgstr "Adaugă sau actualizează chestionare"
+
+#~ msgid "View active survey stats"
+#~ msgstr "Vizualizează statisticile unui chestionar activ"
+
+#~ msgid "Activate plugin with registration key"
+#~ msgstr "Activează modulul folosind codul de înregistrare"

@@ -1,0 +1,1897 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Perfect Survey\n"
+"POT-Creation-Date: 2019-10-17 18:29+0200\n"
+"PO-Revision-Date: 2019-12-09 15:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: lib/classes/PerfectSurvey.php:339
+msgid "Perfect Survey"
+msgstr "Perfect Survey"
+
+#: lib/classes/PerfectSurveyAssets.php:113
+#: lib/classes/PerfectSurveyPostType.php:53
+msgid "All survey"
+msgstr "Toutes les enquêtes"
+
+#: lib/classes/PerfectSurveyAssets.php:127
+msgid "Edit"
+msgstr "Modifier"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:78
+msgid "Global settings"
+msgstr "Paramètres globaux"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:88
+msgid "Progress bar"
+msgstr "Barre de progression"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:92
+msgid "Active progress bar"
+msgstr "Barre de progression active"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:101
+msgid "Progressbar position"
+msgstr "Position de la barre"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:108
+#: lib/classes/PerfectSurveyGlobalSetting.php:1231
+msgid "Below questions"
+msgstr "Questions ci-dessous"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:112
+#: lib/classes/PerfectSurveyGlobalSetting.php:1235
+msgid "Above questions"
+msgstr "Questions ci-dessus"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:118
+msgid "Background first color"
+msgstr "Première couleur de fond"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:126
+msgid "Background second color"
+msgstr "Deuxième couleur de fond"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:134
+msgid "Height"
+msgstr "La taille"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:141
+msgid "Value in (px)"
+msgstr "Valeur en (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:147
+#: lib/classes/PerfectSurveyGlobalSetting.php:211
+#: lib/classes/PerfectSurveyGlobalSetting.php:328
+#: lib/classes/PerfectSurveyGlobalSetting.php:728
+#: lib/classes/PerfectSurveyGlobalSetting.php:826
+#: lib/classes/PerfectSurveyGlobalSetting.php:882
+#: lib/classes/PerfectSurveyGlobalSetting.php:1122
+#: lib/classes/PerfectSurveyGlobalSetting.php:1354
+#: lib/classes/PerfectSurveyGlobalSetting.php:1388
+msgid "Border radius"
+msgstr "Rayon de la bordure"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:154
+#: lib/classes/PerfectSurveyGlobalSetting.php:218
+#: lib/classes/PerfectSurveyGlobalSetting.php:335
+#: lib/classes/PerfectSurveyGlobalSetting.php:735
+#: lib/classes/PerfectSurveyGlobalSetting.php:833
+#: lib/classes/PerfectSurveyGlobalSetting.php:889
+#: lib/classes/PerfectSurveyGlobalSetting.php:1129
+#: lib/classes/PerfectSurveyGlobalSetting.php:1361
+#: lib/classes/PerfectSurveyGlobalSetting.php:1395
+msgid "Top left (px)"
+msgstr "En haut à gauche (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:158
+#: lib/classes/PerfectSurveyGlobalSetting.php:222
+#: lib/classes/PerfectSurveyGlobalSetting.php:339
+#: lib/classes/PerfectSurveyGlobalSetting.php:739
+#: lib/classes/PerfectSurveyGlobalSetting.php:837
+#: lib/classes/PerfectSurveyGlobalSetting.php:893
+#: lib/classes/PerfectSurveyGlobalSetting.php:1133
+#: lib/classes/PerfectSurveyGlobalSetting.php:1365
+#: lib/classes/PerfectSurveyGlobalSetting.php:1399
+msgid "Top right (px)"
+msgstr "En haut à droite (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:162
+#: lib/classes/PerfectSurveyGlobalSetting.php:226
+#: lib/classes/PerfectSurveyGlobalSetting.php:343
+#: lib/classes/PerfectSurveyGlobalSetting.php:743
+#: lib/classes/PerfectSurveyGlobalSetting.php:841
+#: lib/classes/PerfectSurveyGlobalSetting.php:897
+#: lib/classes/PerfectSurveyGlobalSetting.php:1137
+#: lib/classes/PerfectSurveyGlobalSetting.php:1369
+#: lib/classes/PerfectSurveyGlobalSetting.php:1403
+msgid "Bottom left (px)"
+msgstr "En bas à gauche (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:166
+#: lib/classes/PerfectSurveyGlobalSetting.php:230
+#: lib/classes/PerfectSurveyGlobalSetting.php:347
+#: lib/classes/PerfectSurveyGlobalSetting.php:747
+#: lib/classes/PerfectSurveyGlobalSetting.php:845
+#: lib/classes/PerfectSurveyGlobalSetting.php:901
+#: lib/classes/PerfectSurveyGlobalSetting.php:1141
+#: lib/classes/PerfectSurveyGlobalSetting.php:1373
+#: lib/classes/PerfectSurveyGlobalSetting.php:1407
+msgid "Bottom right (px)"
+msgstr "En bas à droite (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:172
+#: lib/classes/PerfectSurveyGlobalSetting.php:261
+#: lib/classes/PerfectSurveyGlobalSetting.php:378
+#: lib/classes/PerfectSurveyGlobalSetting.php:932
+#: lib/classes/PerfectSurveyGlobalSetting.php:1438
+msgid "Margin"
+msgstr "Marge"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:179
+#: lib/classes/PerfectSurveyGlobalSetting.php:268
+#: lib/classes/PerfectSurveyGlobalSetting.php:385
+#: lib/classes/PerfectSurveyGlobalSetting.php:939
+#: lib/classes/PerfectSurveyGlobalSetting.php:1445
+msgid "Margin top (px)"
+msgstr "Marge haut (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:183
+#: lib/classes/PerfectSurveyGlobalSetting.php:272
+#: lib/classes/PerfectSurveyGlobalSetting.php:389
+#: lib/classes/PerfectSurveyGlobalSetting.php:943
+#: lib/classes/PerfectSurveyGlobalSetting.php:1449
+msgid "Margin right (px)"
+msgstr "Marge droite (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:187
+#: lib/classes/PerfectSurveyGlobalSetting.php:280
+#: lib/classes/PerfectSurveyGlobalSetting.php:397
+#: lib/classes/PerfectSurveyGlobalSetting.php:951
+#: lib/classes/PerfectSurveyGlobalSetting.php:1457
+msgid "Margin bottom (px)"
+msgstr "Marge bas (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:191
+#: lib/classes/PerfectSurveyGlobalSetting.php:276
+#: lib/classes/PerfectSurveyGlobalSetting.php:393
+#: lib/classes/PerfectSurveyGlobalSetting.php:947
+#: lib/classes/PerfectSurveyGlobalSetting.php:1453
+msgid "Margin left (px)"
+msgstr "Marge gauche (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:199
+msgid "Layout"
+msgstr "Disposition"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:207
+msgid "General container"
+msgstr "Conteneur général"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:236
+#: lib/classes/PerfectSurveyGlobalSetting.php:353
+#: lib/classes/PerfectSurveyGlobalSetting.php:753
+#: lib/classes/PerfectSurveyGlobalSetting.php:851
+#: lib/classes/PerfectSurveyGlobalSetting.php:907
+#: lib/classes/PerfectSurveyGlobalSetting.php:1084
+#: lib/classes/PerfectSurveyGlobalSetting.php:1147
+#: lib/classes/PerfectSurveyGlobalSetting.php:1413
+msgid "Padding"
+msgstr "Padding"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:243
+#: lib/classes/PerfectSurveyGlobalSetting.php:360
+#: lib/classes/PerfectSurveyGlobalSetting.php:760
+#: lib/classes/PerfectSurveyGlobalSetting.php:858
+#: lib/classes/PerfectSurveyGlobalSetting.php:914
+#: lib/classes/PerfectSurveyGlobalSetting.php:1154
+#: lib/classes/PerfectSurveyGlobalSetting.php:1420
+msgid "Padding top (px)"
+msgstr "Rembourrage en haut (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:247
+#: lib/classes/PerfectSurveyGlobalSetting.php:364
+#: lib/classes/PerfectSurveyGlobalSetting.php:764
+#: lib/classes/PerfectSurveyGlobalSetting.php:862
+#: lib/classes/PerfectSurveyGlobalSetting.php:918
+#: lib/classes/PerfectSurveyGlobalSetting.php:1158
+#: lib/classes/PerfectSurveyGlobalSetting.php:1424
+msgid "Padding right (px)"
+msgstr "Rembourrage à droite (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:251
+#: lib/classes/PerfectSurveyGlobalSetting.php:368
+#: lib/classes/PerfectSurveyGlobalSetting.php:768
+#: lib/classes/PerfectSurveyGlobalSetting.php:866
+#: lib/classes/PerfectSurveyGlobalSetting.php:922
+#: lib/classes/PerfectSurveyGlobalSetting.php:1162
+#: lib/classes/PerfectSurveyGlobalSetting.php:1428
+msgid "Padding left (px)"
+msgstr "Rembourrage à gauche (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:255
+#: lib/classes/PerfectSurveyGlobalSetting.php:372
+#: lib/classes/PerfectSurveyGlobalSetting.php:772
+#: lib/classes/PerfectSurveyGlobalSetting.php:870
+#: lib/classes/PerfectSurveyGlobalSetting.php:926
+#: lib/classes/PerfectSurveyGlobalSetting.php:1166
+#: lib/classes/PerfectSurveyGlobalSetting.php:1432
+msgid "Padding bottom (px)"
+msgstr "Rembourrage bas (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:286
+#: lib/classes/PerfectSurveyGlobalSetting.php:403
+#: lib/classes/PerfectSurveyGlobalSetting.php:702
+#: lib/classes/PerfectSurveyGlobalSetting.php:800
+#: lib/classes/PerfectSurveyGlobalSetting.php:957
+#: lib/classes/PerfectSurveyGlobalSetting.php:1011
+#: lib/classes/PerfectSurveyGlobalSetting.php:1172
+#: lib/classes/PerfectSurveyGlobalSetting.php:1274
+#: lib/classes/PerfectSurveyGlobalSetting.php:1297
+#: lib/classes/PerfectSurveyGlobalSetting.php:1320
+#: lib/classes/PerfectSurveyGlobalSetting.php:1463
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:294
+#: lib/classes/PerfectSurveyGlobalSetting.php:411
+#: lib/classes/PerfectSurveyGlobalSetting.php:965
+#: lib/classes/PerfectSurveyGlobalSetting.php:1019
+#: lib/classes/PerfectSurveyGlobalSetting.php:1180
+#: lib/classes/PerfectSurveyGlobalSetting.php:1282
+#: lib/classes/PerfectSurveyGlobalSetting.php:1305
+#: lib/classes/PerfectSurveyGlobalSetting.php:1328
+#: lib/classes/PerfectSurveyGlobalSetting.php:1471
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:302
+#: lib/classes/PerfectSurveyGlobalSetting.php:419
+#: lib/classes/PerfectSurveyGlobalSetting.php:710
+#: lib/classes/PerfectSurveyGlobalSetting.php:808
+#: lib/classes/PerfectSurveyGlobalSetting.php:973
+#: lib/classes/PerfectSurveyGlobalSetting.php:1066
+#: lib/classes/PerfectSurveyGlobalSetting.php:1188
+#: lib/classes/PerfectSurveyGlobalSetting.php:1336
+#: lib/classes/PerfectSurveyGlobalSetting.php:1479
+msgid "Border manager"
+msgstr "Gestionnaire des frontières"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:309
+#: lib/classes/PerfectSurveyGlobalSetting.php:426
+#: lib/classes/PerfectSurveyGlobalSetting.php:717
+#: lib/classes/PerfectSurveyGlobalSetting.php:815
+#: lib/classes/PerfectSurveyGlobalSetting.php:980
+#: lib/classes/PerfectSurveyGlobalSetting.php:1073
+#: lib/classes/PerfectSurveyGlobalSetting.php:1195
+#: lib/classes/PerfectSurveyGlobalSetting.php:1343
+#: lib/classes/PerfectSurveyGlobalSetting.php:1486
+msgid "Border Width (px)"
+msgstr "Largeur de bordure (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:313
+#: lib/classes/PerfectSurveyGlobalSetting.php:430
+#: lib/classes/PerfectSurveyGlobalSetting.php:721
+#: lib/classes/PerfectSurveyGlobalSetting.php:819
+#: lib/classes/PerfectSurveyGlobalSetting.php:984
+#: lib/classes/PerfectSurveyGlobalSetting.php:1077
+#: lib/classes/PerfectSurveyGlobalSetting.php:1199
+#: lib/classes/PerfectSurveyGlobalSetting.php:1347
+#: lib/classes/PerfectSurveyGlobalSetting.php:1490
+msgid "Border style"
+msgstr "Style de bordure"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:324
+msgid "Boxed layout"
+msgstr "Mise en boîte"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:439
+msgid "Fonts"
+msgstr "Fonts"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:447
+msgid "Font family"
+msgstr "Famille de polices"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:451
+#: lib/classes/PerfectSurveyGlobalSetting.php:498
+#: lib/classes/PerfectSurveyGlobalSetting.php:634
+msgid "Questions"
+msgstr "Questions"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:459
+#: lib/classes/PerfectSurveyGlobalSetting.php:524
+#: lib/classes/PerfectSurveyGlobalSetting.php:642
+msgid "Descriptions"
+msgstr "Descriptions"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:467
+#: lib/classes/PerfectSurveyGlobalSetting.php:550
+#: lib/classes/PerfectSurveyGlobalSetting.php:650
+msgid "Labels"
+msgstr "Étiquettes"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:475
+#: lib/classes/PerfectSurveyGlobalSetting.php:576
+#: lib/classes/PerfectSurveyGlobalSetting.php:658
+#: lib/classes/PerfectSurveyGlobalSetting.php:878
+msgid "Buttons"
+msgstr "Boutons"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:483
+#: lib/classes/PerfectSurveyGlobalSetting.php:602
+#: lib/classes/PerfectSurveyGlobalSetting.php:1213
+msgid "Pagination"
+msgstr "Pagination"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:494
+msgid "Font size"
+msgstr "Taille de police"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:505
+#: lib/classes/PerfectSurveyGlobalSetting.php:531
+#: lib/classes/PerfectSurveyGlobalSetting.php:557
+#: lib/classes/PerfectSurveyGlobalSetting.php:583
+#: lib/classes/PerfectSurveyGlobalSetting.php:609
+msgid "Font size (px)"
+msgstr "Taille du texte (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:509
+#: lib/classes/PerfectSurveyGlobalSetting.php:535
+#: lib/classes/PerfectSurveyGlobalSetting.php:561
+#: lib/classes/PerfectSurveyGlobalSetting.php:587
+#: lib/classes/PerfectSurveyGlobalSetting.php:613
+msgid "Line height (px)"
+msgstr "Hauteur de ligne (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:513
+#: lib/classes/PerfectSurveyGlobalSetting.php:539
+#: lib/classes/PerfectSurveyGlobalSetting.php:565
+#: lib/classes/PerfectSurveyGlobalSetting.php:591
+#: lib/classes/PerfectSurveyGlobalSetting.php:617
+msgid "Font weight"
+msgstr "Poids de la police"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:518
+#: lib/classes/PerfectSurveyGlobalSetting.php:544
+#: lib/classes/PerfectSurveyGlobalSetting.php:570
+#: lib/classes/PerfectSurveyGlobalSetting.php:596
+#: lib/classes/PerfectSurveyGlobalSetting.php:622
+msgid "Letter spacing (px)"
+msgstr "Espacement des lettres (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:630
+msgid "Fonts color"
+msgstr "Couleur du texte"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:666
+msgid "Pagination text"
+msgstr "Texte de pagination"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:676
+msgid "Forms"
+msgstr "Formes"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:682
+msgid "Input, select e textarea"
+msgstr "Entrée, sélectionnez e textarea"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:686
+#: lib/classes/PerfectSurveyGlobalSetting.php:784
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:694
+#: lib/classes/PerfectSurveyGlobalSetting.php:792
+msgid "Background"
+msgstr "Contexte"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:780
+msgid "Focus"
+msgstr "Focus"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:993
+#: lib/classes/PerfectSurveyGlobalSetting.php:1000
+msgid "Extra fields"
+msgstr "Champs supplémentaires"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1007
+msgid "Checkbox and radiobuttons"
+msgstr "Case à cocher et boutons radio"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1027
+msgid "Selected background color"
+msgstr "Couleur de fond sélectionnée"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1038
+msgid "Matrix fields"
+msgstr "Champs matriciels"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1042
+msgid "Table background color"
+msgstr "Couleur de fond du tableau"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1050
+msgid "Alternate row background"
+msgstr "Arrière-plan de la ligne alternative"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1058
+msgid "Table border color"
+msgstr "Couleur de la bordure du tableau"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1091
+msgid "Padding top bottom (px)"
+msgstr "Rembourrage en haut en bas (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1095
+msgid "Padding left right (px)"
+msgstr "Rembourrage gauche droite (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1106
+msgid "Image choice fields"
+msgstr "Champs de choix d'image"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1110
+msgid "Active image zoom on click"
+msgstr "Image active zoom sur le clic"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1220
+msgid "Pagination position"
+msgstr "Position de pagination"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1224
+msgid "Chose the pagination layout"
+msgstr "Choisir la mise en page"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1246
+#: lib/classes/PerfectSurveyPostTypeMeta.php:78
+msgid "Pagination with dots"
+msgstr "Pagination avec des points"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1250
+msgid "Dots"
+msgstr "Points"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1257
+msgid "Width (px)"
+msgstr "Largeur (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1261
+msgid "Height (px)"
+msgstr "Hauteur (px)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1270
+msgid "Color of dots"
+msgstr "Couleur des points"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1293
+msgid "Color of current dots"
+msgstr "Couleur des points actuels"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1316
+msgid "Color of completed dots"
+msgstr "Couleur des points complétés"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1384
+#: lib/classes/PerfectSurveyPostTypeMeta.php:79
+msgid "Pagination with number (1 of 10)"
+msgstr "Pagination avec numéro (1 sur 10)"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1497
+msgid "Text align"
+msgstr "Alignement du texte"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1507
+#: lib/classes/PerfectSurveyGlobalSetting.php:1514
+msgid "Custom css"
+msgstr "CSS personnalisé"
+
+#: lib/classes/PerfectSurveyGlobalSetting.php:1521
+msgid "If you want you can paste your custom css here"
+msgstr "Si vous voulez, vous pouvez coller votre css personnalisé ici"
+
+#: lib/classes/PerfectSurveyPostType.php:54
+#: resources/backend/singlestats.php:44 resources/backend/singlestats.php:52
+msgid "Survey"
+msgstr "Enquêtes"
+
+#: lib/classes/PerfectSurveyPostType.php:55
+msgid "Add New"
+msgstr "Ajouter"
+
+#: lib/classes/PerfectSurveyPostType.php:56
+msgid "Add New Survey"
+msgstr "Ajouter une nouvelle enquête"
+
+#: lib/classes/PerfectSurveyPostType.php:57
+msgid "Edit Survey"
+msgstr "Éditer l’enquête"
+
+#: lib/classes/PerfectSurveyPostType.php:58
+msgid "New Survey"
+msgstr "Nouvelle enquête"
+
+#: lib/classes/PerfectSurveyPostType.php:59
+msgid "View Survey"
+msgstr "Voir l’enquête"
+
+#: lib/classes/PerfectSurveyPostType.php:60
+msgid "Search Survey"
+msgstr "Recherche l’enquête"
+
+#: lib/classes/PerfectSurveyPostType.php:61
+msgid "No Survey found"
+msgstr "Aucune enquête trouvée"
+
+#: lib/classes/PerfectSurveyPostType.php:62
+msgid "No Survey found in Trash"
+msgstr "Aucune enquête trouvée dans la corbeille"
+
+#: lib/classes/PerfectSurveyPostType.php:105
+msgid "Copy this survey"
+msgstr "Copier ce sondage"
+
+#: lib/classes/PerfectSurveyPostType.php:107
+msgid "Are you sure to copy entire survey?"
+msgstr "Etes-vous sûr de copier le sondage en entier?"
+
+#: lib/classes/PerfectSurveyPostType.php:107
+#: resources/backend/questions_box/header_box.php:10
+msgid "Copy"
+msgstr "Copier"
+
+#: lib/classes/PerfectSurveyPostType.php:163
+#: lib/classes/PerfectSurveyPostType.php:164
+#: lib/classes/PerfectSurveyPostType.php:166
+msgid "Survey updated."
+msgstr "Enquête mise à jour."
+
+#: lib/classes/PerfectSurveyPostType.php:165
+msgid "Survey deleted."
+msgstr "Enquête supprimée."
+
+#. translators: %s: date and time of the revision
+#: lib/classes/PerfectSurveyPostType.php:168
+#, php-format
+msgid "Survey restored to revision from %s"
+msgstr "Enquête restaurée à la révision à partir de %s"
+
+#: lib/classes/PerfectSurveyPostType.php:169
+msgid "Survey published."
+msgstr "Enquête publiée."
+
+#: lib/classes/PerfectSurveyPostType.php:170
+msgid "Survey saved."
+msgstr "Enquête enregistrée."
+
+#: lib/classes/PerfectSurveyPostType.php:171
+msgid "Survey submitted."
+msgstr "Enquête soumise."
+
+#: lib/classes/PerfectSurveyPostType.php:172
+msgid "Survey scheduled for."
+msgstr "Enquête prévue pour."
+
+#: lib/classes/PerfectSurveyPostType.php:173
+msgid "Survey draft updated."
+msgstr "Le sondage a été mis à jour."
+
+#: lib/classes/PerfectSurveyPostType.php:213
+#: lib/classes/PerfectSurveyPostType.php:226
+#: lib/classes/PerfectSurveyPostType.php:240
+msgid "Author"
+msgstr "Auteur"
+
+#: lib/classes/PerfectSurveyPostType.php:224
+msgid "Title"
+msgstr "Titre"
+
+#: lib/classes/PerfectSurveyPostType.php:225
+#: resources/backend/wp_ps_metaboxes/shortcode.php:12
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: lib/classes/PerfectSurveyPostType.php:227
+msgid "Date"
+msgstr "Date"
+
+#: lib/classes/PerfectSurveyPostType.php:254
+msgid "Insert new survey title"
+msgstr "Insérer un nouveau titre de enquête"
+
+#: lib/classes/PerfectSurveyPostTypeAction.php:277
+msgid "Survey copied successfull"
+msgstr "Enquête copiée avec succès"
+
+#: lib/classes/PerfectSurveyPostTypeAction.php:701
+msgid "No statistics data available for this survey!"
+msgstr "Aucune donnée statistique disponible pour cette enquête!"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:24
+msgid "Activate the survey"
+msgstr "Activer l’enquête"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:25
+msgid ""
+"Activate the survey to start collecting data. If the poll is off, you will "
+"not see the frontend and the statistics will not be saved"
+msgstr ""
+"Activez l’enquête pour commencer à collecter des données. Si le sondage est "
+"désactivé, vous ne verrez pas le frontal et les statistiques ne seront pas "
+"sauvegardées"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:34
+msgid "Thank you message (only for disabled survey)"
+msgstr "Message de courtoisie (uniquement pour l’enquête pas actif)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:35
+msgid ""
+"This field will show a courtesy message if the survey is not active, change "
+"the message to show to the public"
+msgstr ""
+"Ce champ affichera un message de courtoisie si le sondage n’est pas actif, "
+"changer le message pour montrer au public"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:37
+msgid ""
+"We are sorry, the survey is currently suspended or being created, please try "
+"again later ;)"
+msgstr ""
+"Nous sommes désolés, le sondage est actuellement suspendu ou en cours de "
+"création, veuillez réessayer plus tard ;)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:44
+msgid "Submit one question or all?"
+msgstr "Soumettez question un à la fois ou tout?"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:45
+msgid "Please select if survey must be submit complete or one question at once"
+msgstr ""
+"Veuillez sélectionner si l’enquête doit être complète ou une question à la "
+"fois"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:47
+#: lib/classes/PerfectSurveyPostTypeMeta.php:61
+#: lib/classes/PerfectSurveyPostTypeMeta.php:88
+msgid "Submit survey"
+msgstr "Envoyer un sondage"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:51
+msgid "Complete"
+msgstr "Complet"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:52
+msgid "One question at once"
+msgstr "Une question à la fois"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:58
+msgid "How to submite the survey?"
+msgstr "Comment soumettre l’enquête?"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:59
+msgid ""
+"You can choose how the form must be submit, if normal or asyncronouse mode, "
+"without reload all page"
+msgstr ""
+"Vous pouvez choisir comment le formulaire doit être soumis, en mode normal "
+"ou asyncronouse, sans recharger toutes les pages"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:65
+msgid "Normal"
+msgstr "Ordinaire"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:66
+msgid "Asyncronous"
+msgstr "Asynchrone"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:72
+msgid "Pagination style"
+msgstr "Style de pagination"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:73
+msgid ""
+"You can create two different type of pagination, with number or with dots"
+msgstr ""
+"Vous pouvez créer deux types de pagination différents, avec nombre ou avec "
+"des points"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:77
+msgid "Without paginator"
+msgstr "Sans paginateur"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:85
+msgid "Text button submit"
+msgstr "Entrer le texte du bouton pour l’envoi"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:86
+msgid "Insert the text of the button for submitting a survey"
+msgstr "Insérer le texte du bouton pour soumettre un sondage"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:89
+msgid "Send survey"
+msgstr "Envoyer un sondage"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:96
+msgid "Text button next"
+msgstr "Entrer le texte du bouton pour question suivante"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:97
+msgid ""
+"Insert the text of the button for submitting a single survey question (when "
+"survey is submit one question at once)"
+msgstr "Questionnaire (lorsque l’enquête est soumise une question à la fois)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:99
+msgid "Submit single question"
+msgstr "Soumettre une seule question"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:100
+msgid "Go next question"
+msgstr "Allez à la question suivante"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:107
+msgid "Questions style"
+msgstr "Style de questions"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:108
+msgid "You can choose if the questions have a border or not"
+msgstr "Vous pouvez choisir si les questions ont une bordure ou non"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:112
+msgid "No external box"
+msgstr "Pas de boîte externe"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:113
+msgid "With external box"
+msgstr "Avec boîte externe"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:120
+msgid "Thank you message (multiple question mode)"
+msgstr "Message de remerciement (mode questions multiples)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:121
+msgid "Message to show after complete survey"
+msgstr "Message à afficher après l’enquête complète"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:124
+msgid ""
+"Thank you for submitting the questionnaire, your data has been successfully "
+"saved."
+msgstr ""
+"Merci de soumettre le questionnaire, vos données ont été sauvegardées avec "
+"succès."
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:142
+msgid "Thank you message (single question mode)"
+msgstr "Message de remerciement (mode question unique)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:143
+msgid ""
+"Message to show after complete each question (only in question single mode)"
+msgstr ""
+"Message à afficher après avoir complété chaque question (uniquement en "
+"question en mode simple)"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:146
+msgid ""
+"Thank you for submitting this question, your data has been successfully "
+"saved."
+msgstr ""
+"Merci d’avoir soumis cette question, vos données ont été sauvegardées avec "
+"succès."
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:163
+msgid "Thank you screen"
+msgstr "Merci écran"
+
+#: lib/classes/PerfectSurveyPostTypeMeta.php:164
+msgid "Choose your thank you page, will be visible after sending a survey"
+msgstr ""
+"Choisissez votre page de remerciement, sera visible après l’envoi d’un "
+"sondage"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:78
+#: lib/classes/PerfectSurveyPostTypeModel.php:261
+#: resources/backend/welcome.php:115 resources/backend/welcome.php:117
+msgid "Single choice"
+msgstr "Seul choix"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:79
+#: lib/classes/PerfectSurveyPostTypeModel.php:92
+#: lib/classes/PerfectSurveyPostTypeModel.php:105
+#: lib/classes/PerfectSurveyPostTypeModel.php:129
+#: lib/classes/PerfectSurveyPostTypeModel.php:140
+#: lib/classes/PerfectSurveyPostTypeModel.php:196
+msgid "add answer"
+msgstr "ajouter une réponse"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:91
+#: lib/classes/PerfectSurveyPostTypeModel.php:260
+#: resources/backend/welcome.php:122 resources/backend/welcome.php:124
+msgid "Multiple choice"
+msgstr "Choix multiple"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:104
+#: resources/backend/welcome.php:129 resources/backend/welcome.php:131
+msgid "Text answer"
+msgstr "Réponse textuelle"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:110
+msgid "Text area"
+msgstr "Zone de texte"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:111
+msgid "Date field"
+msgstr "Champ de date"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:112
+msgid "Number"
+msgstr "Nombre"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:113
+msgid "E-mail"
+msgstr "E-mail"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:114
+msgid "Text"
+msgstr "Texte"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:120
+#: resources/backend/welcome.php:136 resources/backend/welcome.php:138
+msgid "Custom text"
+msgstr "Texte personnalisé"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:128
+#: resources/backend/welcome.php:145 resources/backend/welcome.php:147
+msgid "Matrix"
+msgstr "Matrice"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:139
+#: resources/backend/welcome.php:152 resources/backend/welcome.php:154
+msgid "Rating"
+msgstr "Évaluation"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:160
+#: lib/classes/PerfectSurveyPostTypeModel.php:216
+msgid "Star"
+msgstr "Étoile"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:161
+#: lib/classes/PerfectSurveyPostTypeModel.php:217
+msgid "Like"
+msgstr "Like"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:162
+#: lib/classes/PerfectSurveyPostTypeModel.php:218
+msgid "Map"
+msgstr "Carte"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:163
+#: lib/classes/PerfectSurveyPostTypeModel.php:219
+msgid "Location"
+msgstr "Emplacement"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:164
+#: lib/classes/PerfectSurveyPostTypeModel.php:220
+msgid "Music"
+msgstr "Musique"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:165
+#: lib/classes/PerfectSurveyPostTypeModel.php:221
+msgid "Clock"
+msgstr "Horloge"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:166
+#: lib/classes/PerfectSurveyPostTypeModel.php:222
+msgid "Trophy"
+msgstr "Trophée"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:167
+#: lib/classes/PerfectSurveyPostTypeModel.php:223
+msgid "Glass"
+msgstr "Verre"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:168
+#: lib/classes/PerfectSurveyPostTypeModel.php:224
+msgid "Martini"
+msgstr "Martini"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:169
+#: lib/classes/PerfectSurveyPostTypeModel.php:225
+msgid "Beer"
+msgstr "Bière"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:170
+#: lib/classes/PerfectSurveyPostTypeModel.php:226
+msgid "Leaf"
+msgstr "Feuille"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:171
+#: lib/classes/PerfectSurveyPostTypeModel.php:227
+msgid "Rocket"
+msgstr "Fusée"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:172
+#: lib/classes/PerfectSurveyPostTypeModel.php:228
+msgid "Spoon e knife"
+msgstr "Cuillère e couteau"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:173
+#: lib/classes/PerfectSurveyPostTypeModel.php:229
+msgid "Fire"
+msgstr "Feu"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:174
+#: lib/classes/PerfectSurveyPostTypeModel.php:230
+msgid "Power"
+msgstr "Puissance"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:175
+#: lib/classes/PerfectSurveyPostTypeModel.php:231
+msgid "Cloud"
+msgstr "Nuage"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:176
+#: lib/classes/PerfectSurveyPostTypeModel.php:232
+msgid "Flag"
+msgstr "Drapeau"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:177
+#: lib/classes/PerfectSurveyPostTypeModel.php:233
+msgid "Buble"
+msgstr "Buble"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:178
+#: lib/classes/PerfectSurveyPostTypeModel.php:234
+msgid "Checkmark"
+msgstr "Checkmark"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:179
+#: lib/classes/PerfectSurveyPostTypeModel.php:235
+msgid "Smiley"
+msgstr "Smiley"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:180
+#: lib/classes/PerfectSurveyPostTypeModel.php:236
+msgid "Happy"
+msgstr "Content"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:181
+#: lib/classes/PerfectSurveyPostTypeModel.php:237
+msgid "Crying"
+msgstr "Pleurs"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:182
+#: lib/classes/PerfectSurveyPostTypeModel.php:238
+msgid "Frustated"
+msgstr "Frustré"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:183
+#: lib/classes/PerfectSurveyPostTypeModel.php:239
+msgid "Sleepy"
+msgstr "Somnolent"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:184
+#: lib/classes/PerfectSurveyPostTypeModel.php:240
+msgid "Wondering"
+msgstr "Vous vous demandez"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:185
+#: lib/classes/PerfectSurveyPostTypeModel.php:241
+msgid "Hipster"
+msgstr "Hipster"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:186
+#: lib/classes/PerfectSurveyPostTypeModel.php:242
+msgid "Neutral"
+msgstr "Neutre"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:187
+#: lib/classes/PerfectSurveyPostTypeModel.php:243
+msgid "Confused"
+msgstr "Confus"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:188
+#: lib/classes/PerfectSurveyPostTypeModel.php:244
+msgid "Evil"
+msgstr "Mal"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:189
+#: lib/classes/PerfectSurveyPostTypeModel.php:245
+msgid "Cool"
+msgstr "Cool"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:190
+#: lib/classes/PerfectSurveyPostTypeModel.php:246
+msgid "Grin"
+msgstr "Sourire"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:195
+msgid "Rating scale"
+msgstr "Échelle de notation"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:251
+msgid "Image choice"
+msgstr "Choix de l’image"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:252
+msgid "Add image"
+msgstr "Ajouter une image"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:287
+msgid "Equal"
+msgstr "Égale"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:288
+msgid "Different"
+msgstr "Différent"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:306
+msgid "In column"
+msgstr "En colonne"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:312
+msgid "In row"
+msgstr "En ligne"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:318
+msgid "Select field"
+msgstr "Sélectionnez le champ"
+
+#: lib/classes/PerfectSurveyPostTypeModel.php:921
+#: lib/classes/PerfectSurveyPostTypeModel.php:953
+msgid "copy"
+msgstr "copier"
+
+#: lib/classes/PerfectSurveyResources.php:22
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: lib/classes/PerfectSurveyResources.php:23
+msgid "Import/Export"
+msgstr "Importer/Exporter"
+
+#: lib/classes/PerfectSurveyResources.php:24
+msgid "Survey options"
+msgstr "Options d'enquête"
+
+#: lib/classes/PerfectSurveyResources.php:25 resources/backend/activation.php:7
+msgid "Activation"
+msgstr "Activation"
+
+#: resources/backend/activation.php:9
+msgid ""
+"Once you have entered the purchase code you will have access to free "
+"upgrades. Updates can contain new features and important security updates. "
+"For more information on where to find your shopping code, visit this page."
+msgstr ""
+"Une fois que vous avez entré le code d’achat, vous aurez accès à des mises à "
+"jour gratuites. Les mises à jour peuvent contenir de nouvelles "
+"fonctionnalités et des mises à jour de sécurité importantes. Pour plus "
+"d’informations sur où trouver votre code de magasinage, visitez cette page."
+
+#: resources/backend/activation.php:13
+msgid "Please enter a valid purchase key for use this plugin!"
+msgstr "Veuillez entrer une clé d’achat valide pour utiliser ce plugin!"
+
+#: resources/backend/activation.php:21
+msgid "Status of the plugin"
+msgstr "Statut du plugin"
+
+#: resources/backend/activation.php:27
+msgid "Installed version"
+msgstr "Version installée"
+
+#: resources/backend/activation.php:37
+msgid "Product key"
+msgstr "Clé de produit"
+
+#: resources/backend/activation.php:38
+msgid " purchase key"
+msgstr " clé d’achat"
+
+#: resources/backend/activation.php:42
+msgid "Insert here the product key"
+msgstr "Insérer ici la clé de produit"
+
+#: resources/backend/activation.php:50
+#: resources/backend/settings_box/settings_layout/header_settings.php:7
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: resources/backend/activation.php:55
+msgid "Important:"
+msgstr "Important:"
+
+#: resources/backend/activation.php:55
+msgid ""
+"For activation issues, do not hesitate to contact support at the following "
+"address. We will be happy to help you."
+msgstr ""
+"Pour les problèmes d’activation, n’hésitez pas à contacter le support à "
+"l’adresse suivante. Nous serons heureux de pouvoir vous aider."
+
+#: resources/backend/activation.php:55
+msgid "I want support now!"
+msgstr "Je veux du soutien maintenant!"
+
+#: resources/backend/activation.php:65
+msgid "Operation successfull"
+msgstr "Opération réussie"
+
+#: resources/backend/answers_box/delete_btn.php:3
+#: resources/backend/questions_box/header_box.php:11
+msgid "Delete element"
+msgstr "Supprimer l’élément"
+
+#: resources/backend/answers_box/delete_btn.php:4
+msgid " All relative stats will be removed"
+msgstr " Toutes les statistiques relatives seront supprimées"
+
+#: resources/backend/answers_input/image.php:19
+msgid "Load Image"
+msgstr "Charger l’image"
+
+#: resources/backend/answers_input/image.php:23
+msgid "Image text"
+msgstr "Texte d’image"
+
+#: resources/backend/answers_input/image.php:26
+msgid "Image description"
+msgstr "Description de l’image"
+
+#: resources/backend/answers_input/input_custom.php:14
+#: resources/backend/answers_input/input_custom.php:17
+msgid "The user will see this type of field"
+msgstr "L’utilisateur verra ce type de champ"
+
+#: resources/backend/answers_input/matrix_values.php:8
+msgid "Insert an answer value"
+msgstr "Insérer une valeur de réponse"
+
+#: resources/backend/answers_input/slider.php:20
+#: resources/backend/answers_input/text.php:8
+#: resources/backend/answers_input/textarea.php:8
+#: resources/frontend/answers_input/textarea.php:2
+msgid "Insert an answer"
+msgstr "Insérer une réponse"
+
+#: resources/backend/importexport.php:32
+msgid "File must be a valid JSON export from "
+msgstr "Le fichier doit être une exportation JSON valide de "
+
+#: resources/backend/importexport.php:44
+msgid "Import "
+msgstr "Importer "
+
+#: resources/backend/importexport.php:51
+msgid "Import or export your survey"
+msgstr "Importer ou exporter votre enquête"
+
+#: resources/backend/importexport.php:60
+msgid "Export your surveys"
+msgstr "Exportez vos enquêtes"
+
+#: resources/backend/importexport.php:66
+msgid ""
+"Select the surveys you want to export. Use the download button to export to "
+"a .json file that you can then import into another Perfect Survey "
+"installation."
+msgstr ""
+"Sélectionnez les enquêtes que vous souhaitez exporter. Utilisez le bouton de "
+"téléchargement pour exporter dans un fichier .json que vous pourrez ensuite "
+"importer dans une autre installation Perfect Survey."
+
+#: resources/backend/importexport.php:71
+msgid "Select your surveys"
+msgstr "Sélectionnez vos enquêtes"
+
+#: resources/backend/importexport.php:78
+msgid "Export all survey"
+msgstr "Exporter toutes les enquêtes"
+
+#: resources/backend/importexport.php:89 resources/backend/statistics.php:53
+msgid "(no title)"
+msgstr "(sans titre)"
+
+#: resources/backend/importexport.php:99
+msgid "No survey found!"
+msgstr "Aucun sondage n'a été trouvé!"
+
+#: resources/backend/importexport.php:111
+msgid "Download selected survey"
+msgstr "Télécharger le sondage sélectionné"
+
+#: resources/backend/importexport.php:129
+msgid "Import your surveys"
+msgstr "Importez vos enquêtes"
+
+#: resources/backend/importexport.php:135
+msgid ""
+"Select the Perfect Survey JSON file you want to import. When you click the "
+"import button below, Perfect Survey will import your survey"
+msgstr ""
+"Sélectionnez le fichier JSON Perfect Survey que vous souhaitez importer. "
+"Lorsque vous cliquez sur le bouton d'importation ci-dessous, Perfect Survey "
+"importera votre enquête"
+
+#: resources/backend/importexport.php:140
+msgid "Select file"
+msgstr "Sélectionnez le fichier"
+
+#: resources/backend/importexport.php:146
+msgid "Choose JSON file to import"
+msgstr "Choisissez le fichier JSON à importer"
+
+#: resources/backend/importexport.php:151
+msgid "Import"
+msgstr "Import"
+
+#: resources/backend/options.php:131
+msgid "Your settings are been saved!"
+msgstr "Vos paramètres ont été enregistrés!"
+
+#: resources/backend/questions_box/form_question.php:5
+msgid "Insert a question"
+msgstr "Insérer une question"
+
+#: resources/backend/questions_box/form_question.php:33
+msgid "Insert a description"
+msgstr "Insérer une description"
+
+#: resources/backend/questions_box/form_settings_modal.php:3
+#: resources/backend/questions_box/form_settings_modal.php:8
+#: resources/backend/wp_ps_metaboxes/meta.php:1
+msgid "Settings"
+msgstr "Paramètres"
+
+#: resources/backend/questions_box/form_settings_modal.php:19
+msgid "Ok"
+msgstr "Ok"
+
+#: resources/backend/questions_box/header_box.php:10
+msgid "Are you sure to copy this question? All relative stats will be ignored"
+msgstr ""
+"Êtes-vous sûr de copier cette question? Toutes les statistiques relatives "
+"seront ignorées"
+
+#: resources/backend/questions_box/header_box.php:10
+msgid "Copy element"
+msgstr "Copier l'élément"
+
+#: resources/backend/questions_box/header_box.php:11
+msgid ""
+"Are you sure to delete this question? All relative stats will be removed"
+msgstr ""
+"Etes-vous sûr de supprimer cette question? Toutes les statistiques relatives "
+"seront supprimées"
+
+#: resources/backend/questions_box/header_box.php:11
+msgid "Delete"
+msgstr "Supprimer"
+
+#: resources/backend/questions_box/optional_settings_box.php:4
+msgid "Values range"
+msgstr "Gamme de valeurs"
+
+#: resources/backend/questions_box/optional_settings_box.php:6
+msgid "Number of"
+msgstr "Nombre de"
+
+#: resources/backend/questions_box/optional_settings_box.php:6
+msgid "stars"
+msgstr "étoiles"
+
+#: resources/backend/questions_box/optional_settings_box.php:15
+#: resources/backend/questions_box/optional_settings_box.php:17
+msgid "Icon type"
+msgstr "Type d’icône"
+
+#: resources/backend/questions_box/optional_settings_box.php:26
+msgid "Answer field type"
+msgstr "Type de champ de réponse"
+
+#: resources/backend/questions_box/options_box.php:5
+msgid "Required"
+msgstr "Champs obligatoires"
+
+#: resources/backend/questions_box/options_box.php:16
+msgid "Load image"
+msgstr "Charger l’image"
+
+#: resources/backend/questions_box/options_box.php:17
+msgid "Delete image"
+msgstr "Supprimer l’image"
+
+#: resources/backend/questions_box/settings_box.php:3
+msgid "Show answers type"
+msgstr "Afficher le type de réponses"
+
+#: resources/backend/questions_types/matrix.php:80
+msgid "Add answer value"
+msgstr "Ajouter une valeur de réponse"
+
+#: resources/backend/settings_box/settings_layout/header_settings.php:3
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: resources/backend/settings_box/settings_layout/header_settings.php:6
+msgid "Reset default settings"
+msgstr "Réinitialiser les paramètres par défaut"
+
+#: resources/backend/singlestats.php:26
+msgid "Statistics for"
+msgstr "Statistiques pour"
+
+#: resources/backend/singlestats.php:31 resources/backend/singlestats.php:33
+#: resources/backend/singlestats.php:35 resources/backend/stats/datagrid.php:17
+#: resources/backend/stats/datagrid.php:31
+msgid "User"
+msgstr "Utilisateur"
+
+#: resources/backend/singlestats.php:33 resources/backend/singlestats.php:35
+#: resources/backend/stats/datagrid.php:31
+msgid "not registered"
+msgstr "non enregistré"
+
+#: resources/backend/singlestats.php:33
+msgid "session"
+msgstr "session"
+
+#: resources/backend/singlestats.php:45 resources/backend/statistics.php:62
+msgid "In progress"
+msgstr "En cours"
+
+#: resources/backend/singlestats.php:53 resources/backend/statistics.php:64
+msgid "Suspended"
+msgstr "Suspendu"
+
+#: resources/backend/singlestats.php:53
+msgid ""
+"When the survey is suspended, the system does not record the statistics. "
+"Enable the survey to start collecting data."
+msgstr ""
+"Lorsque l’enquête est suspendue, le système n’enregistre pas les "
+"statistiques. Activez l’enquête pour commencer à collecter des données."
+
+#: resources/backend/singlestats.php:90
+msgid "View this survey"
+msgstr "Voir cette enquête"
+
+#: resources/backend/singlestats.php:98
+msgid "You can click on this link to go to the edit page of this survey"
+msgstr ""
+"Vous pouvez cliquer sur ce lien pour accéder à la page d’édition de cette "
+"enquête"
+
+#: resources/backend/singlestats.php:101
+msgid "Go to survey"
+msgstr "Aller à l’enquête"
+
+#: resources/backend/singlestats.php:113
+msgid "Download area"
+msgstr "Zone de téléchargement"
+
+#: resources/backend/singlestats.php:120
+msgid "Create"
+msgstr "Créer"
+
+#: resources/backend/singlestats.php:128
+msgid "Download CSV"
+msgstr "Télécharger CSV"
+
+#: resources/backend/statistics.php:7
+msgid "Analyze Results"
+msgstr "Analyser les résultats"
+
+#: resources/backend/statistics.php:12
+msgid "Total Response"
+msgstr "Réponse totale"
+
+#: resources/backend/statistics.php:19
+msgid "Total Surveys"
+msgstr "Total des enquêtes"
+
+#: resources/backend/statistics.php:26
+msgid "Total Questions"
+msgstr "Total des questions"
+
+#: resources/backend/statistics.php:34
+msgid ""
+"In this area you will be able to view the statistics of the surveys in "
+"progress."
+msgstr ""
+"Dans cette zone, vous pourrez voir les statistiques des enquêtes en cours."
+
+#: resources/backend/statistics.php:42 resources/backend/statistics.php:73
+msgid "Survey name"
+msgstr "Nom de l’enquête"
+
+#: resources/backend/statistics.php:43 resources/backend/statistics.php:74
+msgid "Status"
+msgstr "Statut"
+
+#: resources/backend/statistics.php:57
+msgid "View"
+msgstr "Vue"
+
+#: resources/backend/statistics.php:90
+msgid "This page is empty because there are no active surveys"
+msgstr "Cette page est vide car il n’y a pas d’enquêtes actives"
+
+#: resources/backend/statistics.php:91
+msgid "Create a new survey"
+msgstr "Créer un nouveau sondage"
+
+#: resources/backend/stats/datagrid.php:5
+msgid "Result of statistics for ip"
+msgstr "Résultat des statistiques pour ip"
+
+#: resources/backend/stats/datagrid.php:6
+msgid ""
+"In this section it is possible to analyze data for a single user. By "
+"clicking on the user name, if registered, you can go to view his profile. By "
+"clicking on its IP address you can analyze only its answers isolating them "
+"from the rest."
+msgstr ""
+"Dans cette section, il est possible d’analyser les informations pour un seul "
+"utilisateur. En cliquant sur le nom d’utilisateur, si enregistré, vous "
+"pouvez aller voir son profil. En cliquant sur son adresse IP, vous pouvez "
+"analyser uniquement ses réponses en les isolant du reste."
+
+#: resources/backend/stats/datagrid.php:15
+msgid "Starting date"
+msgstr "Date de début"
+
+#: resources/backend/stats/datagrid.php:16
+msgid "User IP"
+msgstr "IP de l’utilisateur"
+
+#: resources/backend/stats/datagrid.php:28
+msgid "IP not available"
+msgstr "IP indisponible"
+
+#: resources/backend/stats/image.php:61
+#: resources/backend/stats/multiple_choice.php:60
+#: resources/backend/stats/single_choice.php:59
+msgid "Answer"
+msgstr "Répondre"
+
+#: resources/backend/stats/image.php:62 resources/backend/stats/matrix.php:74
+#: resources/backend/stats/multiple_choice.php:61
+#: resources/backend/stats/single_choice.php:60
+#: resources/backend/stats/slider.php:74 resources/backend/stats/text.php:11
+msgid "Answers"
+msgstr "Réponses"
+
+#: resources/backend/stats/rating.php:60
+msgid "Question"
+msgstr "Question"
+
+#: resources/backend/welcome.php:4
+#, php-format
+msgid "Welcome %s %s"
+msgstr "Bienvenue %s %s"
+
+#: resources/backend/welcome.php:5
+msgid "Perfect Survey WordPress plugin - All surveys you want."
+msgstr "Perfect Survey WordPress plugin - Tous les sondages que vous voulez."
+
+#: resources/backend/welcome.php:5
+msgid "For more informations or support click me."
+msgstr "Pour plus d'informations ou de support cliquez-moi."
+
+#: resources/backend/welcome.php:11
+msgid ""
+"<strong>Customers</strong><br>are the heart of your business."
+"<br><strong>Listen to.</strong>"
+msgstr ""
+"<strong>Les clients</strong><br>sont le coeur de votre entreprise."
+"<br><strong>Ecouter.</strong>"
+
+#: resources/backend/welcome.php:14
+msgid ""
+"Thanks to Perfectsurvey, you can learn more about what your customers think "
+"about your products or services."
+msgstr ""
+"Grâce à Perfectsurvey, vous pouvez en apprendre davantage sur ce que vos "
+"clients pensent de vos produits ou services."
+
+#: resources/backend/welcome.php:17
+msgid ""
+"Within the editing form of the questionnaire, it will be possible to modify "
+"the graphics as colors, fonts, and dimensions. To allow you to have maximum "
+"graphic integration with your template."
+msgstr ""
+"Dans le formulaire d'édition du questionnaire, il sera possible de modifier "
+"les graphiques en tant que couleurs, polices et dimensions. Pour vous "
+"permettre une intégration graphique maximale avec votre modèle."
+
+#: resources/backend/welcome.php:20
+msgid "Perfectsurvey"
+msgstr "Perfectsurvey"
+
+#: resources/backend/welcome.php:26
+msgid "Easy and fast"
+msgstr "Facile et rapide"
+
+#: resources/backend/welcome.php:28
+msgid ""
+"Thanks to the speed of the plugin, it will be possible to use it as soon as "
+"it is installed. The plugin does not provide any preliminary configuration, "
+"it is immediately ready to be used. Install, Create, Collect your customer’s "
+"data. It is a powerful tool and allows you to make the right decisions at "
+"any time. Perfect Survey, you can use it for: market surveys, understand the "
+"satisfaction of your customers for products, services, understand what you "
+"like and what is not the best way to improve your business."
+msgstr ""
+"Grâce à la rapidité du plugin, il sera possible de l’utiliser dès son "
+"installation. Le plugin ne fournit aucune configuration préliminaire, il est "
+"immédiatement prêt à être utilisé. Installer, Créer, Collecter les données "
+"de vos clients. C’est un outil puissant qui vous permet de prendre les "
+"bonnes décisions à tout moment. Perfect Survey, vous pouvez l’utiliser pour: "
+"les études de marché, comprendre la satisfaction de vos clients pour les "
+"produits et services, comprendre ce que vous aimez et ce qui n’est pas le "
+"meilleur moyen d’améliorer votre entreprise."
+
+#: resources/backend/welcome.php:49
+msgid "Surveys? Ever been so simple."
+msgstr "Enquêtes? Jamais été si simple."
+
+#: resources/backend/welcome.php:51
+msgid ""
+"With Perfect Survey plugin for WordPress you can create unlimited surveys on "
+"your website and you can know what people have about you thanks to the built-"
+"in advanced statistics."
+msgstr ""
+"Avec le plugin Perfect Survey pour WordPress, vous pouvez créer des enquêtes "
+"illimitées sur votre site Web et vous pouvez savoir ce que les gens ont à "
+"votre sujet grâce aux statistiques avancées intégrées."
+
+#: resources/backend/welcome.php:57 resources/backend/welcome.php:59
+msgid "Create your group of questions."
+msgstr "Créez votre groupe de questions."
+
+#: resources/backend/welcome.php:61
+msgid ""
+"Thanks to the advanced questions editor with more than 15 different types of "
+"answers, creating your own survey is a simple, fast and easy. Give it a "
+"personalized style to make it more appealing."
+msgstr ""
+"Grâce à l'éditeur de questions avancé avec plus de 15 types de réponses "
+"différents, créer votre propre enquête est simple, rapide et facile. Donnez-"
+"lui un style personnalisé pour le rendre plus attrayant."
+
+#: resources/backend/welcome.php:66 resources/backend/welcome.php:68
+msgid "Post your new survey."
+msgstr "Postez votre nouveau sondage."
+
+#: resources/backend/welcome.php:70
+msgid ""
+"To publish your survey and start just copy and paste the shortcode on your "
+"page, article or widget to start collecting data. You will be happy with "
+"simplicity"
+msgstr ""
+"Pour publier votre enquête et commencer, copiez et collez simplement le "
+"shortcode sur votre page, article ou widget pour commencer à collecter des "
+"données. Vous serez heureux avec la simplicité"
+
+#: resources/backend/welcome.php:75 resources/backend/welcome.php:77
+msgid "Collect and analyze statistics"
+msgstr "Recueillir et analyser des statistiques"
+
+#: resources/backend/welcome.php:79
+msgid ""
+"The integrated statistics system will allow you to do an in-depth analysis "
+"of the answers given by your customers or visitors. Thanks to the tables and "
+"charts, it will be easy to understand."
+msgstr ""
+"Le système de statistiques intégré vous permettra de faire une analyse en "
+"profondeur des réponses données par vos clients ou visiteurs. Grâce aux "
+"tableaux et graphiques, il sera facile à comprendre."
+
+#: resources/backend/welcome.php:85
+msgid "Customer Satisfaction? Discover everything with Perfect Survey."
+msgstr "Satisfaction du client? Découvrez tout avec Perfect Survey."
+
+#: resources/backend/welcome.php:87
+msgid "Get to know your customers better to make the right decisions."
+msgstr ""
+"Apprenez à mieux connaître vos clients pour prendre les bonnes décisions."
+
+#: resources/backend/welcome.php:92
+msgid "Customer Satisfaction?"
+msgstr "Satisfaction du client?"
+
+#: resources/backend/welcome.php:93
+msgid ""
+"Get real-time feedback to improve products, services, and business overall."
+msgstr ""
+"Obtenez des commentaires en temps réel pour améliorer les produits, les "
+"services et l'ensemble des activités."
+
+#: resources/backend/welcome.php:96
+msgid "Learning? The right tool."
+msgstr "Apprentissage? Le bon outil."
+
+#: resources/backend/welcome.php:97
+msgid ""
+"With Perfectsurvey, you can create exercises or tests for education. With "
+"detailed statistics."
+msgstr ""
+"Avec Perfectsurvey, vous pouvez créer des exercices ou des tests pour "
+"l’éducation. Avec des statistiques détaillées."
+
+#: resources/backend/welcome.php:100
+msgid "Market Research"
+msgstr "Études de marché"
+
+#: resources/backend/welcome.php:101
+msgid ""
+"Keep track of industry and market trends to stay ahead of the competition."
+msgstr ""
+"Gardez une trace des tendances de l'industrie et du marché pour rester en "
+"avance sur la concurrence."
+
+#: resources/backend/welcome.php:104
+msgid "Employee Engagement"
+msgstr "Contrat d’employé"
+
+#: resources/backend/welcome.php:105
+msgid ""
+"Understand how to retain the best talent and build employee satisfaction."
+msgstr ""
+"Comprendre comment retenir les meilleurs talents et générer la satisfaction "
+"des employés."
+
+#: resources/backend/welcome.php:110
+msgid "Type of custom question fields"
+msgstr "Type de champs de question personnalisés"
+
+#: resources/backend/welcome.php:118
+msgid "Useful for creating a series of answers that allow only one selection"
+msgstr "Utile pour créer une série de réponses ne permettant qu'une sélection"
+
+#: resources/backend/welcome.php:125
+msgid "Similar to Single choice but accept multiple selections"
+msgstr "Semblable à Choix unique mais accepte plusieurs sélections"
+
+#: resources/backend/welcome.php:132
+msgid ""
+"Text answer is a Jolly field, it allows you to create fields like text area. "
+"date field, number, email, text"
+msgstr ""
+"Texte de réponse est un champ Jolly, il vous permet de créer des champs "
+"comme une zone de texte. champ de date, numéro, email, texte"
+
+#: resources/backend/welcome.php:139
+msgid ""
+"If you need to insert explanations between the questions, Custom text helps "
+"you with wysiwyg editor"
+msgstr ""
+"Si vous devez insérer des explications entre les questions, le texte "
+"personnalisé vous aide avec l'éditeur wysiwyg"
+
+#: resources/backend/welcome.php:148
+msgid "A field that crosses two different inputs, used for evaluations"
+msgstr ""
+"Un champ qui traverse deux entrées différentes, utilisé pour les évaluations"
+
+#: resources/backend/welcome.php:155
+msgid ""
+"If you need a rating scale this is the right field, choose from a myriad of "
+"icons"
+msgstr ""
+"Si vous avez besoin d’une échelle d’évaluation, c’est le bon champ, "
+"choisissez parmi une multitude d’icônes"
+
+#: resources/backend/welcome.php:159 resources/backend/welcome.php:161
+msgid "Multiple rating"
+msgstr "Classement multiple"
+
+#: resources/backend/welcome.php:162
+msgid ""
+"It is the same as Rating but allows you to create a multiple Rating field "
+"with custom icons"
+msgstr ""
+"C'est la même chose que Rating, mais vous permet de créer un champ Multiple "
+"Rating avec des icônes personnalisées"
+
+#: resources/backend/welcome.php:166 resources/backend/welcome.php:168
+msgid "Images choice"
+msgstr "Choix des images"
+
+#: resources/backend/welcome.php:169
+msgid ""
+"Used to create an image selection field, you can choose between multiple or "
+"single selection"
+msgstr ""
+"Utilisé pour créer un champ de sélection d’image, vous pouvez choisir entre "
+"une sélection multiple ou unique"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:18
+msgid "-- Choose question --"
+msgstr "-- Choisissez une question --"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:26
+msgid "--Choose condition--"
+msgstr "--Choisissez la condition--"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:34
+msgid "-- Choose answer --"
+msgstr "-- Choisissez la réponse --"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:41
+msgid "Delete condition"
+msgstr "Supprimer une condition"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:41
+msgid "Are you sure to delete this logic condition?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette condition logique?"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:48
+msgid "Go to"
+msgstr "Aller à"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:52
+msgid "-- Choose --"
+msgstr "--Choisir--"
+
+#: resources/backend/wp_ps_metaboxes/logic_condition_item.php:56
+msgid "End questionary"
+msgstr "Fin du questionnaire"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:1
+msgid "Logic conditions"
+msgstr "Conditions logiques"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:8
+msgid "Create now your logic conditions"
+msgstr "Créez maintenant vos conditions logiques"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:11
+msgid ""
+"All conditions will be active only when survey is one question for page. "
+"Only answer of type multiple answers can be used here"
+msgstr ""
+"Toutes les conditions ne seront actives que lorsque l’enquête est une "
+"question par page. Seules les réponses de type réponses multiples peuvent "
+"être utilisées ici"
+
+#: resources/backend/wp_ps_metaboxes/logic_conditions.php:37
+msgid "Add logic conditions"
+msgstr "Ajouter des conditions logiques"
+
+#: resources/backend/wp_ps_metaboxes/meta.php:61
+msgid "Restore default value"
+msgstr "Restaurer la valeur par défaut"
+
+#: resources/backend/wp_ps_metaboxes/questions.php:2
+msgid "Create your survey"
+msgstr "Créez votre sondage"
+
+#: resources/backend/wp_ps_metaboxes/questions.php:11
+#: resources/frontend/questions_types/no-questions.php:2
+msgid "This page is empty.<br>Add a question now!"
+msgstr "Cette page est vide.<br>Ajouter une question maintenant!"
+
+#: resources/backend/wp_ps_metaboxes/questions.php:37
+#: resources/frontend/questions_types/no-questions.php:6
+msgid "Add a question now"
+msgstr "Ajouter une question maintenant"
+
+#: resources/backend/wp_ps_metaboxes/shortcode.php:3
+msgid "Copy a shortcode"
+msgstr "Copier un shortcode"
+
+#: resources/backend/wp_ps_metaboxes/shortcode.php:13
+msgid "Copy this shortcode and enter it in your page, article or widget"
+msgstr "Copiez ce code court et entrez-le dans votre page, article ou widget"
+
+#: resources/frontend/answers_input/textarea.php:2
+msgid "Type your answer here..."
+msgstr "Tapez votre réponse ici…"
+
+#: resources/frontend/layout/pagination.php:18
+#, php-format
+msgid "Step %s of %s"
+msgstr "Étape %s de %s"
+
+#: resources/frontend/questions_types/generic.php:7
+msgid "no answer"
+msgstr "pas de réponse"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.perfectsurvey.com/"
+msgstr "http://www.perfectsurvey.com/"
+
+#. Description of the plugin/theme
+msgid "Insert in your WordPress a perfect survey plugin"
+msgstr "Insérez dans votre WordPress un plugin de sondage parfait"
+
+#. Author of the plugin/theme
+msgid "Vincenzo Migliano"
+msgstr "Vincenzo Migliano"
+
+#~ msgid "Get style to the questions and make cool"
+#~ msgstr "Décidez du style des questions pour les rendre plus belles"
+
+#~ msgid "Questions font size (pixel)"
+#~ msgstr "Taille de la police (pixel)"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid "Questions line height (pixel)"
+#~ msgstr "Questions hauteur de la ligne (pixel)"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "Questions text color"
+#~ msgstr "Questions texte couleur"
+
+#~ msgid "Get style to the answers and make cool"
+#~ msgstr "Décidez du style des réponses pour les rendre plus belles"
+
+#~ msgid "Answers font size (pixel)"
+#~ msgstr "Réponses à la taille de la police (pixel)"
+
+#~ msgid "13"
+#~ msgstr "13"
+
+#~ msgid "Answers line height (pixel)"
+#~ msgstr "Réponses hauteur de ligne (pixel)"
+
+#~ msgid "18"
+#~ msgstr "18"
+
+#~ msgid "Answers text color"
+#~ msgstr "Réponses couleur du texte"
+
+#~ msgid "Get style to the labels and make cool"
+#~ msgstr "Décidez du style des étiquettes pour les rendre plus belles"
+
+#~ msgid "UI Color"
+#~ msgstr "UI Color"
+
+#~ msgid "Get custom colors for checkbox, radiobutton or select"
+#~ msgstr ""
+#~ "Obtenez des couleurs personnalisées pour checkbox, radiobutton ou sélect"
+
+#~ msgid "About"
+#~ msgstr "About"
+
+#~ msgid "What can you do?"
+#~ msgstr "Que pouvez-vous faire?"
+
+#~ msgid "Add or update surveys"
+#~ msgstr "Ajouter ou mettre à jour des sondages"
+
+#~ msgid "View active survey stats"
+#~ msgstr "Afficher les statistiques d’enquête actives"
+
+#~ msgid "Activate plugin with registration key"
+#~ msgstr "Activer le plugin avec la clé d’enregistrement"
+
+#~ msgid "Last answer"
+#~ msgstr "Dernière réponse"
